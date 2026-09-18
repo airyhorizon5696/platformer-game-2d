@@ -1,0 +1,4693 @@
+fileFormatVersion: 2
+guid: 49b149e0376ebed41a382659c8fc3c6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -516344023559108614
+    second: Red-Tree_0
+  - first:
+      213: 6578671892491742839
+    second: Red-Tree_1
+  - first:
+      213: -3221990807116689363
+    second: Red-Tree_2
+  - first:
+      213: -4820556563881188446
+    second: Red-Tree_3
+  - first:
+      213: -3307365538534207674
+    second: Red-Tree_4
+  - first:
+      213: 8924079098787964220
+    second: Red-Tree_5
+  - first:
+      213: 5581930613958091829
+    second: Red-Tree_6
+  - first:
+      213: 5042128947735148321
+    second: Red-Tree_7
+  - first:
+      213: 4928427434224973316
+    second: Red-Tree_8
+  - first:
+      213: 1223225117864057523
+    second: Red-Tree_9
+  - first:
+      213: -3289531817519676229
+    second: Red-Tree_10
+  - first:
+      213: -4889508509086302574
+    second: Red-Tree_11
+  - first:
+      213: -272286935110558730
+    second: Red-Tree_12
+  - first:
+      213: 2074161302717704644
+    second: Red-Tree_13
+  - first:
+      213: 3782995957911290489
+    second: Red-Tree_14
+  - first:
+      213: -1422261641919525403
+    second: Red-Tree_15
+  - first:
+      213: -4231343398505508674
+    second: Red-Tree_16
+  - first:
+      213: -3791984765827270996
+    second: Red-Tree_17
+  - first:
+      213: 6685833991791433201
+    second: Red-Tree_18
+  - first:
+      213: 8865155418680304196
+    second: Red-Tree_19
+  - first:
+      213: -1219369093317665024
+    second: Red-Tree_20
+  - first:
+      213: 5605336458540970244
+    second: Red-Tree_21
+  - first:
+      213: 4470236711469630022
+    second: Red-Tree_22
+  - first:
+      213: -5593338510500348588
+    second: Red-Tree_23
+  - first:
+      213: -2889387558947382807
+    second: Red-Tree_24
+  - first:
+      213: -342054782837150007
+    second: Red-Tree_25
+  - first:
+      213: -7966482893651019958
+    second: Red-Tree_26
+  - first:
+      213: -6256275388318124757
+    second: Red-Tree_27
+  - first:
+      213: 7778631178924088178
+    second: Red-Tree_28
+  - first:
+      213: -3222793692362486448
+    second: Red-Tree_29
+  - first:
+      213: 3856335879832136224
+    second: Red-Tree_30
+  - first:
+      213: 8674069047219422346
+    second: Red-Tree_31
+  - first:
+      213: -6635927889654062406
+    second: Red-Tree_32
+  - first:
+      213: -4592911015642601361
+    second: Red-Tree_33
+  - first:
+      213: -9162688940784917668
+    second: Red-Tree_34
+  - first:
+      213: -7030649330934305355
+    second: Red-Tree_35
+  - first:
+      213: 7121166945240487728
+    second: Red-Tree_36
+  - first:
+      213: 8640579929254183176
+    second: Red-Tree_37
+  - first:
+      213: 1681771656463584998
+    second: Red-Tree_38
+  - first:
+      213: -6106808525140593595
+    second: Red-Tree_39
+  - first:
+      213: -8070648305730861858
+    second: Red-Tree_40
+  - first:
+      213: 740801232613008231
+    second: Red-Tree_41
+  - first:
+      213: -6350651178262055004
+    second: Red-Tree_42
+  - first:
+      213: 5513286138009583995
+    second: Red-Tree_43
+  - first:
+      213: 8924072024272071280
+    second: Red-Tree_44
+  - first:
+      213: -4251469155194341468
+    second: Red-Tree_45
+  - first:
+      213: -3278746170317102635
+    second: Red-Tree_46
+  - first:
+      213: 3816396655546144340
+    second: Red-Tree_47
+  - first:
+      213: -2487618134717539938
+    second: Red-Tree_48
+  - first:
+      213: -3146165267289207664
+    second: Red-Tree_49
+  - first:
+      213: 8268919014378938243
+    second: Red-Tree_50
+  - first:
+      213: 5838258441623217988
+    second: Red-Tree_51
+  - first:
+      213: -7957950110794967886
+    second: Red-Tree_52
+  - first:
+      213: -4179518843931636154
+    second: Red-Tree_53
+  - first:
+      213: -8581577444253804807
+    second: Red-Tree_54
+  - first:
+      213: -2824875405113166223
+    second: Red-Tree_55
+  - first:
+      213: -4607011916042846203
+    second: Red-Tree_56
+  - first:
+      213: -7799954271339746871
+    second: Red-Tree_57
+  - first:
+      213: 6355080631477342191
+    second: Red-Tree_58
+  - first:
+      213: 489923262972647585
+    second: Red-Tree_59
+  - first:
+      213: 154789152637739878
+    second: Red-Tree_60
+  - first:
+      213: 9169353819070320387
+    second: Red-Tree_61
+  - first:
+      213: -4745759702966773639
+    second: Red-Tree_62
+  - first:
+      213: 7419849040642074694
+    second: Red-Tree_63
+  - first:
+      213: 6533901430600289807
+    second: Red-Tree_64
+  - first:
+      213: 6126498497834006675
+    second: Red-Tree_65
+  - first:
+      213: -7024820158743961907
+    second: Red-Tree_66
+  - first:
+      213: -696340338611366215
+    second: Red-Tree_67
+  - first:
+      213: -6651664826480378773
+    second: Red-Tree_68
+  - first:
+      213: 3481817919574249489
+    second: Red-Tree_69
+  - first:
+      213: -434152996577195321
+    second: Red-Tree_70
+  - first:
+      213: -2185036308675141253
+    second: Red-Tree_71
+  - first:
+      213: 1011707132616009218
+    second: Red-Tree_72
+  - first:
+      213: -417081541729657935
+    second: Red-Tree_73
+  - first:
+      213: -6529883519815016944
+    second: Red-Tree_74
+  - first:
+      213: -1532845724705932282
+    second: Red-Tree_75
+  - first:
+      213: -8143093830071160113
+    second: Red-Tree_76
+  - first:
+      213: -6773720548749324860
+    second: Red-Tree_77
+  - first:
+      213: -2788683902263636798
+    second: Red-Tree_78
+  - first:
+      213: -8135474577887920829
+    second: Red-Tree_79
+  - first:
+      213: 4092690310331060739
+    second: Red-Tree_80
+  - first:
+      213: 9009384331022895314
+    second: Red-Tree_81
+  - first:
+      213: -5847893332827899985
+    second: Red-Tree_82
+  - first:
+      213: -4504132881273379755
+    second: Red-Tree_83
+  - first:
+      213: 5660302432435624306
+    second: Red-Tree_84
+  - first:
+      213: -1736577571538972477
+    second: Red-Tree_85
+  - first:
+      213: -5582433325045294811
+    second: Red-Tree_86
+  - first:
+      213: 4237665709122691829
+    second: Red-Tree_87
+  - first:
+      213: -6802681019774189407
+    second: Red-Tree_88
+  - first:
+      213: -6055805434883820247
+    second: Red-Tree_89
+  - first:
+      213: 165911943425778038
+    second: Red-Tree_90
+  - first:
+      213: 2541278216352890249
+    second: Red-Tree_91
+  - first:
+      213: -6274169774622721516
+    second: Red-Tree_92
+  - first:
+      213: 6703819800405422123
+    second: Red-Tree_93
+  - first:
+      213: 5353268695665408980
+    second: Red-Tree_94
+  - first:
+      213: -1371434262031232287
+    second: Red-Tree_95
+  - first:
+      213: 5946952692868734833
+    second: Red-Tree_96
+  - first:
+      213: -767579733384905261
+    second: Red-Tree_97
+  - first:
+      213: -6591666803764175432
+    second: Red-Tree_98
+  - first:
+      213: 1147172105975735584
+    second: Red-Tree_99
+  - first:
+      213: -5503678782604605277
+    second: Red-Tree_100
+  - first:
+      213: -3305441327689973618
+    second: Red-Tree_101
+  - first:
+      213: -5015253337926976668
+    second: Red-Tree_102
+  - first:
+      213: 4797180196035125330
+    second: Red-Tree_103
+  - first:
+      213: -4531536008259411144
+    second: Red-Tree_104
+  - first:
+      213: -3903610300680601468
+    second: Red-Tree_105
+  - first:
+      213: -2325801755329181993
+    second: Red-Tree_106
+  - first:
+      213: -7343254357011347460
+    second: Red-Tree_107
+  - first:
+      213: -2749057066788175582
+    second: Red-Tree_108
+  - first:
+      213: 7443691244614134113
+    second: Red-Tree_109
+  - first:
+      213: 6335733222890783669
+    second: Red-Tree_110
+  - first:
+      213: -2910859125829052289
+    second: Red-Tree_111
+  - first:
+      213: 860571256628071313
+    second: Red-Tree_112
+  - first:
+      213: -5396616871138588648
+    second: Red-Tree_113
+  - first:
+      213: 6293512573252192132
+    second: Red-Tree_114
+  - first:
+      213: -5717582374782414855
+    second: Red-Tree_115
+  - first:
+      213: 5310326747575744873
+    second: Red-Tree_116
+  - first:
+      213: -7368209968193678583
+    second: Red-Tree_117
+  - first:
+      213: -8589001182094634578
+    second: Red-Tree_118
+  - first:
+      213: 8494798783881728984
+    second: Red-Tree_119
+  - first:
+      213: -3139354343337125866
+    second: Red-Tree_120
+  - first:
+      213: 5160352207172535014
+    second: Red-Tree_121
+  - first:
+      213: 5237628190428103870
+    second: Red-Tree_122
+  - first:
+      213: -7970452323122880098
+    second: Red-Tree_123
+  - first:
+      213: -7782094441957321933
+    second: Red-Tree_124
+  - first:
+      213: 2989338853410491923
+    second: Red-Tree_125
+  - first:
+      213: 2591397391045506504
+    second: Red-Tree_126
+  - first:
+      213: 6565130872299867531
+    second: Red-Tree_127
+  - first:
+      213: -4595699097114386325
+    second: Red-Tree_128
+  - first:
+      213: -3437382939656865322
+    second: Red-Tree_129
+  - first:
+      213: 7294429779354756717
+    second: Red-Tree_130
+  - first:
+      213: 7381430803486622662
+    second: Red-Tree_131
+  - first:
+      213: -1333054739841227360
+    second: Red-Tree_132
+  - first:
+      213: -2034553483035790961
+    second: Red-Tree_133
+  - first:
+      213: -5245284741622417116
+    second: Red-Tree_134
+  - first:
+      213: 5782065532191352385
+    second: Red-Tree_135
+  - first:
+      213: 8904402696320123716
+    second: Red-Tree_136
+  - first:
+      213: 3519242650286675542
+    second: Red-Tree_137
+  - first:
+      213: 5017795751146808807
+    second: Red-Tree_138
+  - first:
+      213: 5620217934325560294
+    second: Red-Tree_139
+  - first:
+      213: 7892219417838489989
+    second: Red-Tree_140
+  - first:
+      213: -874389219085815792
+    second: Red-Tree_141
+  - first:
+      213: 419239413843627504
+    second: Red-Tree_142
+  - first:
+      213: -4937297586654062394
+    second: Red-Tree_143
+  - first:
+      213: -5795624813634998928
+    second: Red-Tree_144
+  - first:
+      213: -2693026484899137887
+    second: Red-Tree_145
+  - first:
+      213: -1052309804713935588
+    second: Red-Tree_146
+  - first:
+      213: -5289872264391776589
+    second: Red-Tree_147
+  - first:
+      213: 4129582626599060068
+    second: Red-Tree_148
+  - first:
+      213: -2720830652661290979
+    second: Red-Tree_149
+  - first:
+      213: 4008827865571075310
+    second: Red-Tree_150
+  - first:
+      213: 3538668040055744545
+    second: Red-Tree_151
+  - first:
+      213: -5602823933535352113
+    second: Red-Tree_152
+  - first:
+      213: 5538236249321668967
+    second: Red-Tree_153
+  - first:
+      213: 3389624120872810995
+    second: Red-Tree_154
+  - first:
+      213: -7074503477164349846
+    second: Red-Tree_155
+  - first:
+      213: -4855191287325649298
+    second: Red-Tree_156
+  - first:
+      213: 7801491539923378149
+    second: Red-Tree_157
+  - first:
+      213: 7876221202958468959
+    second: Red-Tree_158
+  - first:
+      213: -1127695289663149419
+    second: Red-Tree_159
+  - first:
+      213: -2300110794189836857
+    second: Red-Tree_160
+  - first:
+      213: 1180370179467338027
+    second: Red-Tree_161
+  - first:
+      213: 7322453238199178378
+    second: Red-Tree_162
+  - first:
+      213: -6538582910005404890
+    second: Red-Tree_163
+  - first:
+      213: -7584879094214263665
+    second: Red-Tree_164
+  - first:
+      213: -3665481441512070108
+    second: Red-Tree_165
+  - first:
+      213: -1269839244469192863
+    second: Red-Tree_166
+  - first:
+      213: 3746380212493437212
+    second: Red-Tree_167
+  - first:
+      213: 450399445984994419
+    second: Red-Tree_168
+  - first:
+      213: 6368591441576916790
+    second: Red-Tree_169
+  - first:
+      213: -5192539243993396056
+    second: Red-Tree_170
+  - first:
+      213: 1643520548700357578
+    second: Red-Tree_171
+  - first:
+      213: -5639804638562930767
+    second: Red-Tree_172
+  - first:
+      213: 8848701592349672858
+    second: Red-Tree_173
+  - first:
+      213: 4138177542216365608
+    second: Red-Tree_174
+  - first:
+      213: -2481250182112126476
+    second: Red-Tree_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red-Tree_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 108
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70dd5a8d395d8f0800000000000000
+      internalID: -516344023559108614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1013
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e21dd1b332c4b50800000000000000
+      internalID: 6578671892491742839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 831
+        width: 109
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d205c388e603943d0800000000000000
+      internalID: -3221990807116689363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 831
+        width: 71
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a32f267851f91db0800000000000000
+      internalID: -4820556563881188446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 831
+        width: 29
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fcc4dd090e912d0800000000000000
+      internalID: -3307365538534207674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1182
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35aeb698a2b8db70800000000000000
+      internalID: 8924079098787964220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 831
+        width: 109
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534a9dda150077d40800000000000000
+      internalID: 5581930613958091829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_7
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1013
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127b779409d39f540800000000000000
+      internalID: 5042128947735148321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_8
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 831
+        width: 109
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406f446b3aa456440800000000000000
+      internalID: 4928427434224973316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_9
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 831
+        width: 71
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba5f9683c4c9f010800000000000000
+      internalID: 1223225117864057523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_10
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 831
+        width: 29
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4056b9d3c3952d0800000000000000
+      internalID: -3289531817519676229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_11
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1182
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e39adaae9f42cb0800000000000000
+      internalID: -4889508509086302574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_12
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1169
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb51c3a974a83cf0800000000000000
+      internalID: -272286935110558730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_13
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1169
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9a95727b6e8cc10800000000000000
+      internalID: 2074161302717704644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_14
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1133
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9728a02d7c6ef7430800000000000000
+      internalID: 3782995957911290489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_15
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed09b7729c134ce0800000000000000
+      internalID: -1422261641919525403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_16
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1133
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb09261099f3745c0800000000000000
+      internalID: -4231343398505508674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_17
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca63c2f32f9206bc0800000000000000
+      internalID: -3791984765827270996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1087
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5d5fba79ad8cc50800000000000000
+      internalID: 6685833991791433201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_19
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1105
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442a11932eb570b70800000000000000
+      internalID: 8865155418680304196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_20
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1087
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fd5b6254ee31fe0800000000000000
+      internalID: -1219369093317665024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_21
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1105
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40171e98fc72acd40800000000000000
+      internalID: 5605336458540970244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1060
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ce01da98790e30800000000000000
+      internalID: 4470236711469630022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_23
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1081
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d3d1d62487062b0800000000000000
+      internalID: -5593338510500348588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_24
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1060
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e91282e255d6e7d0800000000000000
+      internalID: -2889387558947382807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_25
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1081
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cea44fbcf6c04bf0800000000000000
+      internalID: -342054782837150007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1032
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4774b6340e517190800000000000000
+      internalID: -7966482893651019958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1046
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2577467eae3d29a0800000000000000
+      internalID: -6256275388318124757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_28
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1032
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b5c8228df33fb60800000000000000
+      internalID: 7778631178924088178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_29
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1032
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4d5e36365643d0800000000000000
+      internalID: -3222793692362486448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_30
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1046
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aecfb0d05748530800000000000000
+      internalID: 3856335879832136224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_31
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1032
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8489bc57db706870800000000000000
+      internalID: 8674069047219422346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 946
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2ef063eb278e3a0800000000000000
+      internalID: -6635927889654062406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 990
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e4abf3c3b240c0800000000000000
+      internalID: -4592911015642601361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_34
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 987
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c536d1154f697d080800000000000000
+      internalID: -9162688940784917668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_35
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 946
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bda259fead1e6e90800000000000000
+      internalID: -7030649330934305355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_36
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 990
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037105d6b9773d260800000000000000
+      internalID: 7121166945240487728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_37
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 987
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801c0987aa189e770800000000000000
+      internalID: 8640579929254183176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 912
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee05d0496ad65710800000000000000
+      internalID: 1681771656463584998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 954
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544faab6002404ba0800000000000000
+      internalID: -6106808525140593595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_40
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 926
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4cdc5402c4fff80800000000000000
+      internalID: -8070648305730861858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_41
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 912
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763e11fcbcad74a00800000000000000
+      internalID: 740801232613008231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_42
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 954
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7364b8664fdd7a0800000000000000
+      internalID: -6350651178262055004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_43
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 926
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7185292880238c40800000000000000
+      internalID: 5513286138009583995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 881
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07aecbc693ca8db70800000000000000
+      internalID: 8924072024272071280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_45
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 892
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a77c1f145fbff4c0800000000000000
+      internalID: -4251469155194341468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_46
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 881
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1a399cabd8f72d0800000000000000
+      internalID: -3278746170317102635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_47
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 892
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45611dfb98096f430800000000000000
+      internalID: 3816396655546144340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 495
+        width: 110
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9957578c743a7dd0800000000000000
+      internalID: -2487618134717539938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 554
+        width: 110
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c0e86cb539654d0800000000000000
+      internalID: -3146165267289207664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 495
+        width: 110
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f9780780a11c270800000000000000
+      internalID: 8268919014378938243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_51
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 495
+        width: 58
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a0e7ce19a50150800000000000000
+      internalID: 5838258441623217988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_52
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 495
+        width: 23
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b419c9898eaf8190800000000000000
+      internalID: -7957950110794967886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 796
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e476761cd5ff5c0800000000000000
+      internalID: -4179518843931636154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_54
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 790
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f65fb618cc18e880800000000000000
+      internalID: -8581577444253804807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_55
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 495
+        width: 110
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176fd7f29c60cc8d0800000000000000
+      internalID: -2824875405113166223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_56
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 554
+        width: 110
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5004644421b9010c0800000000000000
+      internalID: -4607011916042846203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_57
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 495
+        width: 110
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9e0888aeef0c390800000000000000
+      internalID: -7799954271339746871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_58
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 495
+        width: 58
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef0c26e928c13850800000000000000
+      internalID: 6355080631477342191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_59
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 495
+        width: 23
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85fa8ac9e8cc600800000000000000
+      internalID: 489923262972647585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_60
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 796
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6636e0a0aebe52200800000000000000
+      internalID: 154789152637739878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_61
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 790
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fce8597b6104f70800000000000000
+      internalID: 9169353819070320387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_62
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 769
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9785d4bb1bca32eb0800000000000000
+      internalID: -4745759702966773639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_63
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 769
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6486e72f36998f660800000000000000
+      internalID: 7419849040642074694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_64
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 741
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ec858abb41daa50800000000000000
+      internalID: 6533901430600289807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_65
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 741
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983c589ce1b50550800000000000000
+      internalID: 6126498497834006675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_66
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 720
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce1013e843d28e90800000000000000
+      internalID: -7024820158743961907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_67
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 720
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b65b42c62a1656f0800000000000000
+      internalID: -696340338611366215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_68
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 689
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c3da4151a80b3a0800000000000000
+      internalID: -6651664826480378773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_69
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 689
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11010dc43f6e15030800000000000000
+      internalID: 3481817919574249489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_70
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 646
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca48dc562499f9f0800000000000000
+      internalID: -434152996577195321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_71
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 668
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b716618dd013da1e0800000000000000
+      internalID: -2185036308675141253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_72
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 646
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2066e40e64e4a0e00800000000000000
+      internalID: 1011707132616009218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_73
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 668
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbd4de2c8a363af0800000000000000
+      internalID: -417081541729657935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_74
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 619
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e9fb819813165a0800000000000000
+      internalID: -6529883519815016944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_75
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 642
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c3d6b4fec3abae0800000000000000
+      internalID: -1532845724705932282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_76
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 636
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2fee53e4bedfe80800000000000000
+      internalID: -8143093830071160113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_77
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 619
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd4804bc09eef1a0800000000000000
+      internalID: -6773720548749324860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_78
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 642
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc9b614ca9c49d0800000000000000
+      internalID: -2788683902263636798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_79
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 636
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34df4c999fcf81f80800000000000000
+      internalID: -8135474577887920829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_80
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 601
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30257fa37282cc830800000000000000
+      internalID: 4092690310331060739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_81
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 610
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d80797b053c70d70800000000000000
+      internalID: 9009384331022895314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_82
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 601
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7fa6c4ffb18dea0800000000000000
+      internalID: -5847893332827899985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_83
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 610
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5542b86220b1e71c0800000000000000
+      internalID: -4504132881273379755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_84
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 597
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279da9e921f6d8e40800000000000000
+      internalID: 5660302432435624306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_85
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 597
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0528346ef66e7e0800000000000000
+      internalID: -1736577571538972477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_86
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 577
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5295f56c7763782b0800000000000000
+      internalID: -5582433325045294811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_87
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 578
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2ac15a2863fca30800000000000000
+      internalID: 4237665709122691829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_88
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 577
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0411897a50891a0800000000000000
+      internalID: -6802681019774189407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_89
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 578
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925bed0ca0575fba0800000000000000
+      internalID: -6055805434883820247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_90
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 522
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67163e398007d4200800000000000000
+      internalID: 165911943425778038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_91
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 522
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98df621d21f644320800000000000000
+      internalID: 2541278216352890249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 90
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41abe1bf4dbade8a0800000000000000
+      internalID: -6274169774622721516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 302
+        width: 90
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2035611790c80d50800000000000000
+      internalID: 6703819800405422123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 271
+        width: 90
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbfa501481aa4a40800000000000000
+      internalID: 5353268695665408980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_95
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 271
+        width: 57
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e214da0ecfa7fce0800000000000000
+      internalID: -1371434262031232287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_96
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 271
+        width: 19
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f5e7247f1d78250800000000000000
+      internalID: 5946952692868734833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_97
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 453
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddbdce9c420955f0800000000000000
+      internalID: -767579733384905261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_98
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 271
+        width: 90
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdd6e357f1b584a0800000000000000
+      internalID: -6591666803764175432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_99
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 302
+        width: 90
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025abe0d3f29bef00800000000000000
+      internalID: 1147172105975735584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_100
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 271
+        width: 90
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a88ff49e410f93b0800000000000000
+      internalID: -5503678782604605277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_101
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 271
+        width: 57
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c42d10a6b022d0800000000000000
+      internalID: -3305441327689973618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_102
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 271
+        width: 19
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b354e39ad366ab0800000000000000
+      internalID: -5015253337926976668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_103
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 453
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2506634c8f1039240800000000000000
+      internalID: 4797180196035125330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_104
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 419
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8336ec47200cc11c0800000000000000
+      internalID: -4531536008259411144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_105
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 428
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480806e1d1793d9c0800000000000000
+      internalID: -3903610300680601468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_106
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 425
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6cf9b40a719bfd0800000000000000
+      internalID: -2325801755329181993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_107
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 419
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7cffa8115871a90800000000000000
+      internalID: -7343254357011347460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_108
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 428
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22140d2b92369d9d0800000000000000
+      internalID: -2749057066788175582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_109
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 425
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16929e4afbd4d4760800000000000000
+      internalID: 7443691244614134113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_110
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 383
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3cb0e4ccb0de750800000000000000
+      internalID: 6335733222890783669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_111
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 404
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7851c52c0d8a97d0800000000000000
+      internalID: -2910859125829052289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_112
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 383
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b4a379ffc51fb00800000000000000
+      internalID: 860571256628071313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_113
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 404
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81887e65c8d5b15b0800000000000000
+      internalID: -5396616871138588648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_114
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 361
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487c626475c075750800000000000000
+      internalID: 6293512573252192132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_115
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 374
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff4f098f1117a0b0800000000000000
+      internalID: -5717582374782414855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_116
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 361
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969f186aa0212b940800000000000000
+      internalID: 5310326747575744873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_117
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 374
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903d257821cdeb990800000000000000
+      internalID: -7368209968193678583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_118
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 331
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1d6dd6eecbdc880800000000000000
+      internalID: -8589001182094634578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_119
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 338
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d0bf8c7693e570800000000000000
+      internalID: 8494798783881728984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_120
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 331
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6189f459bd5ce64d0800000000000000
+      internalID: -3139354343337125866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_121
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 338
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e20c60edf04d9740800000000000000
+      internalID: 5160352207172535014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_122
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 312
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb40a0cc61bcfa840800000000000000
+      internalID: 5237628190428103870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_123
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 312
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91e21567d3436190800000000000000
+      internalID: -7970452323122880098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 285
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333979a1652700490800000000000000
+      internalID: -7782094441957321933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_125
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 295
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e4ec659d34c7920800000000000000
+      internalID: 2989338853410491923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_126
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 285
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c53425823e76f320800000000000000
+      internalID: 2591397391045506504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_127
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 295
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d426baeb70c1b50800000000000000
+      internalID: 6565130872299867531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_128
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 111
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e9ed250cc830c0800000000000000
+      internalID: -4595699097114386325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_129
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 120
+        width: 90
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b3ccad66fb40d0800000000000000
+      internalID: -3437382939656865322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_130
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 111
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66a87d9c350b3560800000000000000
+      internalID: 7294429779354756717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_131
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 111
+        width: 56
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c342ff053c107660800000000000000
+      internalID: 7381430803486622662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_132
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 111
+        width: 24
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5ec95e6c9008de0800000000000000
+      internalID: -1333054739841227360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_133
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 213
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f813e1ff260d3c3e0800000000000000
+      internalID: -2034553483035790961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_134
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 206
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429b1d571510537b0800000000000000
+      internalID: -5245284741622417116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_135
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 111
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ab4287f50e3050800000000000000
+      internalID: 5782065532191352385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_136
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 120
+        width: 90
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4430133231bc29b70800000000000000
+      internalID: 8904402696320123716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_137
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 111
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656ddb07b8cd6d030800000000000000
+      internalID: 3519242650286675542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_138
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 111
+        width: 56
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5e19676aac2a540800000000000000
+      internalID: 5017795751146808807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_139
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 111
+        width: 24
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e331cf1f660ffd40800000000000000
+      internalID: 5620217934325560294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_140
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 213
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58114b9eebbc68d60800000000000000
+      internalID: 7892219417838489989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_141
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 206
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01075f053ab8dd3f0800000000000000
+      internalID: -874389219085815792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_142
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd0ef1960071d500800000000000000
+      internalID: 419239413843627504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_143
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8571df0023b7bb0800000000000000
+      internalID: -4937297586654062394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_144
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 152
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07da8d340fdc19fa0800000000000000
+      internalID: -5795624813634998928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_145
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 170
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a63ed42ea270aad0800000000000000
+      internalID: -2693026484899137887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_146
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 172
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d7d58dec17561f0800000000000000
+      internalID: -1052309804713935588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_147
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 152
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6acb5d3399696b0800000000000000
+      internalID: -5289872264391776589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_148
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 170
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462cf09f4893f4930800000000000000
+      internalID: 4129582626599060068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_149
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 172
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18212edfeaad3ad0800000000000000
+      internalID: -2720830652661290979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_150
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee42d0d34b732a730800000000000000
+      internalID: 4008827865571075310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_151
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128ec8175dfdb1130800000000000000
+      internalID: 3538668040055744545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_152
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca81964155ce32b0800000000000000
+      internalID: -5602823933535352113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_153
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 43
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7618203a684cbdc40800000000000000
+      internalID: 5538236249321668967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_154
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 14
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f938becd2d5a0f20800000000000000
+      internalID: 3389624120872810995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_155
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a666a51e19052dd90800000000000000
+      internalID: -7074503477164349846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_156
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6612628f35ee9cb0800000000000000
+      internalID: -4855191287325649298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_157
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef1953b837744c60800000000000000
+      internalID: 7801491539923378149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_158
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f574dbe3475fd4d60800000000000000
+      internalID: 7876221202958468959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_159
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 43
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a2fbcdb1f9950f0800000000000000
+      internalID: -1127695289663149419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_160
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 14
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cde5405b6d5410e0800000000000000
+      internalID: -2300110794189836857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_161
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b216d92ac64816010800000000000000
+      internalID: 1180370179467338027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_162
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 62
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8455439c649e9560800000000000000
+      internalID: 7322453238199178378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_163
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 61
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b10ba7c794245a0800000000000000
+      internalID: -6538582910005404890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_164
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 62
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c721576a81db690800000000000000
+      internalID: -7584879094214263665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_165
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 61
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424e2ebac08912dc0800000000000000
+      internalID: -3665481441512070108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_166
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167309f5fef906ee0800000000000000
+      internalID: -1269839244469192863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_167
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 31
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19493f34f0ddf330800000000000000
+      internalID: 3746380212493437212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_168
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374e7f8e8e3204600800000000000000
+      internalID: 450399445984994419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_169
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 31
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f8c28c28c16850800000000000000
+      internalID: 6368591441576916790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_170
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac8f7f911560f7b0800000000000000
+      internalID: -5192539243993396056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_171
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 12
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac307563b35fec610800000000000000
+      internalID: 1643520548700357578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_172
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf2bdbef836bb1b0800000000000000
+      internalID: -5639804638562930767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_173
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 12
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a958f6f3737ecca70800000000000000
+      internalID: 8848701592349672858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_174
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 16
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8263e45bc82cd6930800000000000000
+      internalID: 4138177542216365608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Tree_175
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 16
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f955580b14d09dd0800000000000000
+      internalID: -2481250182112126476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red-Tree_0: -516344023559108614
+      Red-Tree_1: 6578671892491742839
+      Red-Tree_10: -3289531817519676229
+      Red-Tree_100: -5503678782604605277
+      Red-Tree_101: -3305441327689973618
+      Red-Tree_102: -5015253337926976668
+      Red-Tree_103: 4797180196035125330
+      Red-Tree_104: -4531536008259411144
+      Red-Tree_105: -3903610300680601468
+      Red-Tree_106: -2325801755329181993
+      Red-Tree_107: -7343254357011347460
+      Red-Tree_108: -2749057066788175582
+      Red-Tree_109: 7443691244614134113
+      Red-Tree_11: -4889508509086302574
+      Red-Tree_110: 6335733222890783669
+      Red-Tree_111: -2910859125829052289
+      Red-Tree_112: 860571256628071313
+      Red-Tree_113: -5396616871138588648
+      Red-Tree_114: 6293512573252192132
+      Red-Tree_115: -5717582374782414855
+      Red-Tree_116: 5310326747575744873
+      Red-Tree_117: -7368209968193678583
+      Red-Tree_118: -8589001182094634578
+      Red-Tree_119: 8494798783881728984
+      Red-Tree_12: -272286935110558730
+      Red-Tree_120: -3139354343337125866
+      Red-Tree_121: 5160352207172535014
+      Red-Tree_122: 5237628190428103870
+      Red-Tree_123: -7970452323122880098
+      Red-Tree_124: -7782094441957321933
+      Red-Tree_125: 2989338853410491923
+      Red-Tree_126: 2591397391045506504
+      Red-Tree_127: 6565130872299867531
+      Red-Tree_128: -4595699097114386325
+      Red-Tree_129: -3437382939656865322
+      Red-Tree_13: 2074161302717704644
+      Red-Tree_130: 7294429779354756717
+      Red-Tree_131: 7381430803486622662
+      Red-Tree_132: -1333054739841227360
+      Red-Tree_133: -2034553483035790961
+      Red-Tree_134: -5245284741622417116
+      Red-Tree_135: 5782065532191352385
+      Red-Tree_136: 8904402696320123716
+      Red-Tree_137: 3519242650286675542
+      Red-Tree_138: 5017795751146808807
+      Red-Tree_139: 5620217934325560294
+      Red-Tree_14: 3782995957911290489
+      Red-Tree_140: 7892219417838489989
+      Red-Tree_141: -874389219085815792
+      Red-Tree_142: 419239413843627504
+      Red-Tree_143: -4937297586654062394
+      Red-Tree_144: -5795624813634998928
+      Red-Tree_145: -2693026484899137887
+      Red-Tree_146: -1052309804713935588
+      Red-Tree_147: -5289872264391776589
+      Red-Tree_148: 4129582626599060068
+      Red-Tree_149: -2720830652661290979
+      Red-Tree_15: -1422261641919525403
+      Red-Tree_150: 4008827865571075310
+      Red-Tree_151: 3538668040055744545
+      Red-Tree_152: -5602823933535352113
+      Red-Tree_153: 5538236249321668967
+      Red-Tree_154: 3389624120872810995
+      Red-Tree_155: -7074503477164349846
+      Red-Tree_156: -4855191287325649298
+      Red-Tree_157: 7801491539923378149
+      Red-Tree_158: 7876221202958468959
+      Red-Tree_159: -1127695289663149419
+      Red-Tree_16: -4231343398505508674
+      Red-Tree_160: -2300110794189836857
+      Red-Tree_161: 1180370179467338027
+      Red-Tree_162: 7322453238199178378
+      Red-Tree_163: -6538582910005404890
+      Red-Tree_164: -7584879094214263665
+      Red-Tree_165: -3665481441512070108
+      Red-Tree_166: -1269839244469192863
+      Red-Tree_167: 3746380212493437212
+      Red-Tree_168: 450399445984994419
+      Red-Tree_169: 6368591441576916790
+      Red-Tree_17: -3791984765827270996
+      Red-Tree_170: -5192539243993396056
+      Red-Tree_171: 1643520548700357578
+      Red-Tree_172: -5639804638562930767
+      Red-Tree_173: 8848701592349672858
+      Red-Tree_174: 4138177542216365608
+      Red-Tree_175: -2481250182112126476
+      Red-Tree_18: 6685833991791433201
+      Red-Tree_19: 8865155418680304196
+      Red-Tree_2: -3221990807116689363
+      Red-Tree_20: -1219369093317665024
+      Red-Tree_21: 5605336458540970244
+      Red-Tree_22: 4470236711469630022
+      Red-Tree_23: -5593338510500348588
+      Red-Tree_24: -2889387558947382807
+      Red-Tree_25: -342054782837150007
+      Red-Tree_26: -7966482893651019958
+      Red-Tree_27: -6256275388318124757
+      Red-Tree_28: 7778631178924088178
+      Red-Tree_29: -3222793692362486448
+      Red-Tree_3: -4820556563881188446
+      Red-Tree_30: 3856335879832136224
+      Red-Tree_31: 8674069047219422346
+      Red-Tree_32: -6635927889654062406
+      Red-Tree_33: -4592911015642601361
+      Red-Tree_34: -9162688940784917668
+      Red-Tree_35: -7030649330934305355
+      Red-Tree_36: 7121166945240487728
+      Red-Tree_37: 8640579929254183176
+      Red-Tree_38: 1681771656463584998
+      Red-Tree_39: -6106808525140593595
+      Red-Tree_4: -3307365538534207674
+      Red-Tree_40: -8070648305730861858
+      Red-Tree_41: 740801232613008231
+      Red-Tree_42: -6350651178262055004
+      Red-Tree_43: 5513286138009583995
+      Red-Tree_44: 8924072024272071280
+      Red-Tree_45: -4251469155194341468
+      Red-Tree_46: -3278746170317102635
+      Red-Tree_47: 3816396655546144340
+      Red-Tree_48: -2487618134717539938
+      Red-Tree_49: -3146165267289207664
+      Red-Tree_5: 8924079098787964220
+      Red-Tree_50: 8268919014378938243
+      Red-Tree_51: 5838258441623217988
+      Red-Tree_52: -7957950110794967886
+      Red-Tree_53: -4179518843931636154
+      Red-Tree_54: -8581577444253804807
+      Red-Tree_55: -2824875405113166223
+      Red-Tree_56: -4607011916042846203
+      Red-Tree_57: -7799954271339746871
+      Red-Tree_58: 6355080631477342191
+      Red-Tree_59: 489923262972647585
+      Red-Tree_6: 5581930613958091829
+      Red-Tree_60: 154789152637739878
+      Red-Tree_61: 9169353819070320387
+      Red-Tree_62: -4745759702966773639
+      Red-Tree_63: 7419849040642074694
+      Red-Tree_64: 6533901430600289807
+      Red-Tree_65: 6126498497834006675
+      Red-Tree_66: -7024820158743961907
+      Red-Tree_67: -696340338611366215
+      Red-Tree_68: -6651664826480378773
+      Red-Tree_69: 3481817919574249489
+      Red-Tree_7: 5042128947735148321
+      Red-Tree_70: -434152996577195321
+      Red-Tree_71: -2185036308675141253
+      Red-Tree_72: 1011707132616009218
+      Red-Tree_73: -417081541729657935
+      Red-Tree_74: -6529883519815016944
+      Red-Tree_75: -1532845724705932282
+      Red-Tree_76: -8143093830071160113
+      Red-Tree_77: -6773720548749324860
+      Red-Tree_78: -2788683902263636798
+      Red-Tree_79: -8135474577887920829
+      Red-Tree_8: 4928427434224973316
+      Red-Tree_80: 4092690310331060739
+      Red-Tree_81: 9009384331022895314
+      Red-Tree_82: -5847893332827899985
+      Red-Tree_83: -4504132881273379755
+      Red-Tree_84: 5660302432435624306
+      Red-Tree_85: -1736577571538972477
+      Red-Tree_86: -5582433325045294811
+      Red-Tree_87: 4237665709122691829
+      Red-Tree_88: -6802681019774189407
+      Red-Tree_89: -6055805434883820247
+      Red-Tree_9: 1223225117864057523
+      Red-Tree_90: 165911943425778038
+      Red-Tree_91: 2541278216352890249
+      Red-Tree_92: -6274169774622721516
+      Red-Tree_93: 6703819800405422123
+      Red-Tree_94: 5353268695665408980
+      Red-Tree_95: -1371434262031232287
+      Red-Tree_96: 5946952692868734833
+      Red-Tree_97: -767579733384905261
+      Red-Tree_98: -6591666803764175432
+      Red-Tree_99: 1147172105975735584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4693 @@
+fileFormatVersion: 2
+guid: bbe276ebdafd5a141befa19cc9e70b76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8938702890404128826
+    second: Golden-Tree_0
+  - first:
+      213: -6488973390687056034
+    second: Golden-Tree_1
+  - first:
+      213: 4344561138801708993
+    second: Golden-Tree_2
+  - first:
+      213: -5043557972278803040
+    second: Golden-Tree_3
+  - first:
+      213: -2999151043966327390
+    second: Golden-Tree_4
+  - first:
+      213: 366964088511928432
+    second: Golden-Tree_5
+  - first:
+      213: 7839254241027738872
+    second: Golden-Tree_6
+  - first:
+      213: -38063980326684024
+    second: Golden-Tree_7
+  - first:
+      213: 8609479780962070707
+    second: Golden-Tree_8
+  - first:
+      213: -2917573643986955614
+    second: Golden-Tree_9
+  - first:
+      213: -4447536053467137959
+    second: Golden-Tree_10
+  - first:
+      213: -6146015130133899484
+    second: Golden-Tree_11
+  - first:
+      213: 8498486392334216767
+    second: Golden-Tree_12
+  - first:
+      213: -8693769586386110303
+    second: Golden-Tree_13
+  - first:
+      213: 763499513516208527
+    second: Golden-Tree_14
+  - first:
+      213: 9203837406776839397
+    second: Golden-Tree_15
+  - first:
+      213: 3906385423719198282
+    second: Golden-Tree_16
+  - first:
+      213: -521065853668143494
+    second: Golden-Tree_17
+  - first:
+      213: 2902520348504422135
+    second: Golden-Tree_18
+  - first:
+      213: 7350605114960718756
+    second: Golden-Tree_19
+  - first:
+      213: 1501105544140324786
+    second: Golden-Tree_20
+  - first:
+      213: 2789245217763248571
+    second: Golden-Tree_21
+  - first:
+      213: 6208751230308777215
+    second: Golden-Tree_22
+  - first:
+      213: 2533839514792052985
+    second: Golden-Tree_23
+  - first:
+      213: 728423274163859170
+    second: Golden-Tree_24
+  - first:
+      213: 4320855862931526032
+    second: Golden-Tree_25
+  - first:
+      213: -1450006815037851870
+    second: Golden-Tree_26
+  - first:
+      213: 747222104763179389
+    second: Golden-Tree_27
+  - first:
+      213: -911861679036730888
+    second: Golden-Tree_28
+  - first:
+      213: -6210222313993336901
+    second: Golden-Tree_29
+  - first:
+      213: 4671924683722533472
+    second: Golden-Tree_30
+  - first:
+      213: 6576796491606111505
+    second: Golden-Tree_31
+  - first:
+      213: 264520215978025911
+    second: Golden-Tree_32
+  - first:
+      213: -2684665976265979808
+    second: Golden-Tree_33
+  - first:
+      213: 6257666414594481650
+    second: Golden-Tree_34
+  - first:
+      213: 9036787500502732855
+    second: Golden-Tree_35
+  - first:
+      213: -8060159674519624835
+    second: Golden-Tree_36
+  - first:
+      213: 54619135371189802
+    second: Golden-Tree_37
+  - first:
+      213: 8089480932379827176
+    second: Golden-Tree_38
+  - first:
+      213: -150332207501121503
+    second: Golden-Tree_39
+  - first:
+      213: 8530588072521635335
+    second: Golden-Tree_40
+  - first:
+      213: -6522656550781607754
+    second: Golden-Tree_41
+  - first:
+      213: 3323415646074068521
+    second: Golden-Tree_42
+  - first:
+      213: -4138241807395479697
+    second: Golden-Tree_43
+  - first:
+      213: 2152415617428146914
+    second: Golden-Tree_44
+  - first:
+      213: 6716561110930217293
+    second: Golden-Tree_45
+  - first:
+      213: 7438033285503894265
+    second: Golden-Tree_46
+  - first:
+      213: -4689515078566886085
+    second: Golden-Tree_47
+  - first:
+      213: -2970539070321257873
+    second: Golden-Tree_48
+  - first:
+      213: -26846525495526574
+    second: Golden-Tree_49
+  - first:
+      213: -2522994870610394073
+    second: Golden-Tree_50
+  - first:
+      213: 8754449165655129510
+    second: Golden-Tree_51
+  - first:
+      213: 1381898162372647954
+    second: Golden-Tree_52
+  - first:
+      213: -8175764472998385373
+    second: Golden-Tree_53
+  - first:
+      213: -5426637298218385153
+    second: Golden-Tree_54
+  - first:
+      213: 3341239982504305587
+    second: Golden-Tree_55
+  - first:
+      213: 4896801602352418605
+    second: Golden-Tree_56
+  - first:
+      213: -681157394340989271
+    second: Golden-Tree_57
+  - first:
+      213: 7004914175220635825
+    second: Golden-Tree_58
+  - first:
+      213: -271418330002185899
+    second: Golden-Tree_59
+  - first:
+      213: 8806834289039993569
+    second: Golden-Tree_60
+  - first:
+      213: -5526197250974930273
+    second: Golden-Tree_61
+  - first:
+      213: 1196115208601234184
+    second: Golden-Tree_62
+  - first:
+      213: 3475739270190981715
+    second: Golden-Tree_63
+  - first:
+      213: 6819368574180113292
+    second: Golden-Tree_64
+  - first:
+      213: -3820720476680328157
+    second: Golden-Tree_65
+  - first:
+      213: 2613426746434540588
+    second: Golden-Tree_66
+  - first:
+      213: -8820850129468862667
+    second: Golden-Tree_67
+  - first:
+      213: 4380831965663947150
+    second: Golden-Tree_68
+  - first:
+      213: 252686667361766313
+    second: Golden-Tree_69
+  - first:
+      213: -6979844602203798831
+    second: Golden-Tree_70
+  - first:
+      213: -1892158474229010545
+    second: Golden-Tree_71
+  - first:
+      213: 7048699264957692037
+    second: Golden-Tree_72
+  - first:
+      213: -912746645787929817
+    second: Golden-Tree_73
+  - first:
+      213: -5325266585791456259
+    second: Golden-Tree_74
+  - first:
+      213: 8926125010837886287
+    second: Golden-Tree_75
+  - first:
+      213: -8784704708170485107
+    second: Golden-Tree_76
+  - first:
+      213: 8556447324032490881
+    second: Golden-Tree_77
+  - first:
+      213: 6852187550261473753
+    second: Golden-Tree_78
+  - first:
+      213: 7342252541941938045
+    second: Golden-Tree_79
+  - first:
+      213: -2983691520494424632
+    second: Golden-Tree_80
+  - first:
+      213: 2583942244324052138
+    second: Golden-Tree_81
+  - first:
+      213: 1750934364509078286
+    second: Golden-Tree_82
+  - first:
+      213: -7686246281216601465
+    second: Golden-Tree_83
+  - first:
+      213: -6753415528084084330
+    second: Golden-Tree_84
+  - first:
+      213: -5911191903321042403
+    second: Golden-Tree_85
+  - first:
+      213: -6242310369419410790
+    second: Golden-Tree_86
+  - first:
+      213: -150810010516783500
+    second: Golden-Tree_87
+  - first:
+      213: 7044813826814398438
+    second: Golden-Tree_88
+  - first:
+      213: -8836328285107409765
+    second: Golden-Tree_89
+  - first:
+      213: 492278364735321700
+    second: Golden-Tree_90
+  - first:
+      213: 4741759852775138840
+    second: Golden-Tree_91
+  - first:
+      213: -8903184760809792186
+    second: Golden-Tree_92
+  - first:
+      213: -3295286001972097873
+    second: Golden-Tree_93
+  - first:
+      213: -7004045528191863639
+    second: Golden-Tree_94
+  - first:
+      213: 5624058223541215272
+    second: Golden-Tree_95
+  - first:
+      213: -1162685519035857759
+    second: Golden-Tree_96
+  - first:
+      213: 2524447507554983416
+    second: Golden-Tree_97
+  - first:
+      213: -4252604774007837799
+    second: Golden-Tree_98
+  - first:
+      213: 5919409340782789459
+    second: Golden-Tree_99
+  - first:
+      213: 7705418896670766337
+    second: Golden-Tree_100
+  - first:
+      213: -6259012575879564026
+    second: Golden-Tree_101
+  - first:
+      213: 3832659602301464605
+    second: Golden-Tree_102
+  - first:
+      213: 1024879719213494159
+    second: Golden-Tree_103
+  - first:
+      213: -6719744444401232247
+    second: Golden-Tree_104
+  - first:
+      213: -4793074846183710216
+    second: Golden-Tree_105
+  - first:
+      213: 2185369114290458459
+    second: Golden-Tree_106
+  - first:
+      213: 3762209614671693031
+    second: Golden-Tree_107
+  - first:
+      213: -1475164997617821109
+    second: Golden-Tree_108
+  - first:
+      213: -6832293427731834441
+    second: Golden-Tree_109
+  - first:
+      213: 4198782796407574454
+    second: Golden-Tree_110
+  - first:
+      213: 7051097089018191992
+    second: Golden-Tree_111
+  - first:
+      213: 3556264770393750702
+    second: Golden-Tree_112
+  - first:
+      213: 8583490676725328429
+    second: Golden-Tree_113
+  - first:
+      213: -2820275950524399352
+    second: Golden-Tree_114
+  - first:
+      213: -1636674657753030742
+    second: Golden-Tree_115
+  - first:
+      213: -6662473815057363349
+    second: Golden-Tree_116
+  - first:
+      213: 7866279980422136443
+    second: Golden-Tree_117
+  - first:
+      213: -5188176528665378328
+    second: Golden-Tree_118
+  - first:
+      213: 6944961055613383232
+    second: Golden-Tree_119
+  - first:
+      213: 8428264640138461746
+    second: Golden-Tree_120
+  - first:
+      213: -5533380364326386120
+    second: Golden-Tree_121
+  - first:
+      213: 1431191444178930367
+    second: Golden-Tree_122
+  - first:
+      213: 3382303181897963391
+    second: Golden-Tree_123
+  - first:
+      213: -3274317080419155076
+    second: Golden-Tree_124
+  - first:
+      213: -5790022521499414386
+    second: Golden-Tree_125
+  - first:
+      213: 4582818287463535825
+    second: Golden-Tree_126
+  - first:
+      213: -7401243210354245284
+    second: Golden-Tree_127
+  - first:
+      213: 5295137007487466780
+    second: Golden-Tree_128
+  - first:
+      213: -7738234148477268394
+    second: Golden-Tree_129
+  - first:
+      213: -475237936370210541
+    second: Golden-Tree_130
+  - first:
+      213: 5468277232675720999
+    second: Golden-Tree_131
+  - first:
+      213: 266581067342820741
+    second: Golden-Tree_132
+  - first:
+      213: 5235137481155024392
+    second: Golden-Tree_133
+  - first:
+      213: -4783510285002505840
+    second: Golden-Tree_134
+  - first:
+      213: -7072227144716433181
+    second: Golden-Tree_135
+  - first:
+      213: -6023504635598854500
+    second: Golden-Tree_136
+  - first:
+      213: -8067923826669249461
+    second: Golden-Tree_137
+  - first:
+      213: 817852295310238817
+    second: Golden-Tree_138
+  - first:
+      213: -5437690079043471590
+    second: Golden-Tree_139
+  - first:
+      213: 7183813052891923240
+    second: Golden-Tree_140
+  - first:
+      213: -5496548367735117180
+    second: Golden-Tree_141
+  - first:
+      213: -3233958598729503062
+    second: Golden-Tree_142
+  - first:
+      213: 3768814094088603952
+    second: Golden-Tree_143
+  - first:
+      213: 1706625032501911517
+    second: Golden-Tree_144
+  - first:
+      213: 3207330421245802757
+    second: Golden-Tree_145
+  - first:
+      213: -2539030556731445612
+    second: Golden-Tree_146
+  - first:
+      213: -880365750716980336
+    second: Golden-Tree_147
+  - first:
+      213: -7467387898977270381
+    second: Golden-Tree_148
+  - first:
+      213: -3508593375041515540
+    second: Golden-Tree_149
+  - first:
+      213: 6051747468016576290
+    second: Golden-Tree_150
+  - first:
+      213: 6780516473435025493
+    second: Golden-Tree_151
+  - first:
+      213: 6769826168405573614
+    second: Golden-Tree_152
+  - first:
+      213: -7657231423157850374
+    second: Golden-Tree_153
+  - first:
+      213: -8092587580809441172
+    second: Golden-Tree_154
+  - first:
+      213: -5217880214584666437
+    second: Golden-Tree_155
+  - first:
+      213: 2394448442790702783
+    second: Golden-Tree_156
+  - first:
+      213: 1113974478516813329
+    second: Golden-Tree_157
+  - first:
+      213: 7147896789396470110
+    second: Golden-Tree_158
+  - first:
+      213: -3484681801215674719
+    second: Golden-Tree_159
+  - first:
+      213: 8516994637580718449
+    second: Golden-Tree_160
+  - first:
+      213: 5590329974308669670
+    second: Golden-Tree_161
+  - first:
+      213: -628677772550231442
+    second: Golden-Tree_162
+  - first:
+      213: -8003222279488865083
+    second: Golden-Tree_163
+  - first:
+      213: 5572858183615815874
+    second: Golden-Tree_164
+  - first:
+      213: 4361556445800865148
+    second: Golden-Tree_165
+  - first:
+      213: -1502433757337702470
+    second: Golden-Tree_166
+  - first:
+      213: -4811674820194239963
+    second: Golden-Tree_167
+  - first:
+      213: 6338324900586150712
+    second: Golden-Tree_168
+  - first:
+      213: 3131772459640407716
+    second: Golden-Tree_169
+  - first:
+      213: -6188422821434753817
+    second: Golden-Tree_170
+  - first:
+      213: -3364348268686220228
+    second: Golden-Tree_171
+  - first:
+      213: -2585609129287113299
+    second: Golden-Tree_172
+  - first:
+      213: 1336926069493956331
+    second: Golden-Tree_173
+  - first:
+      213: 7523440746145973978
+    second: Golden-Tree_174
+  - first:
+      213: 8534335722327733478
+    second: Golden-Tree_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Golden-Tree_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 108
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c754b8941953f380800000000000000
+      internalID: -8938702890404128826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1013
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fc22bc41982f5a0800000000000000
+      internalID: -6488973390687056034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 831
+        width: 109
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf0e37565bfa4c30800000000000000
+      internalID: 4344561138801708993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 831
+        width: 71
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a58b320fbea10ab0800000000000000
+      internalID: -5043557972278803040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 831
+        width: 29
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a525a40400e066d0800000000000000
+      internalID: -2999151043966327390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_5
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1182
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078141de4e7b71500800000000000000
+      internalID: 366964088511928432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 831
+        width: 109
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcce64b230aacc60800000000000000
+      internalID: 7839254241027738872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_7
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1013
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88af3e5f205c87ff0800000000000000
+      internalID: -38063980326684024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_8
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 831
+        width: 109
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0f62dee340b7770800000000000000
+      internalID: 8609479780962070707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_9
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 831
+        width: 71
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a29d109a32b287d0800000000000000
+      internalID: -2917573643986955614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_10
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 831
+        width: 29
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958395ff58d2742c0800000000000000
+      internalID: -4447536053467137959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_11
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1182
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42751385dc7f4baa0800000000000000
+      internalID: -6146015130133899484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_12
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1169
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e629fc850b0f570800000000000000
+      internalID: 8498486392334216767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_13
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1169
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a87c5c6f96895780800000000000000
+      internalID: -8693769586386110303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_14
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1133
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81315923ce789a00800000000000000
+      internalID: 763499513516208527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_15
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecc2618b599abf70800000000000000
+      internalID: 9203837406776839397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_16
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1133
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eeb8098d4463630800000000000000
+      internalID: 3906385423719198282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_17
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1146
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e4687ed5dc4c8f0800000000000000
+      internalID: -521065853668143494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1087
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6f2f5f0e2d74820800000000000000
+      internalID: 2902520348504422135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_19
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1105
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab27692868920660800000000000000
+      internalID: 7350605114960718756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_20
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1087
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf7ad80a8ff4d410800000000000000
+      internalID: 1501105544140324786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_21
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1105
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb94c3c5fb365b620800000000000000
+      internalID: 2789245217763248571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1060
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcf25d395ae92650800000000000000
+      internalID: 6208751230308777215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_23
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1081
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f847052d910a2320800000000000000
+      internalID: 2533839514792052985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_24
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1060
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eee9a6cb11eb1a00800000000000000
+      internalID: 728423274163859170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_25
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1081
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09192b3b383c6fb30800000000000000
+      internalID: 4320855862931526032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1032
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227f5c3fb7a80ebe0800000000000000
+      internalID: -1450006815037851870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1046
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71aaba9b8aae5a00800000000000000
+      internalID: 747222104763179389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_28
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1032
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f179b852aa6853f0800000000000000
+      internalID: -911861679036730888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_29
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1032
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7093665bbd0d9a0800000000000000
+      internalID: -6210222313993336901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_30
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1046
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a29a63fb206d040800000000000000
+      internalID: 4671924683722533472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_31
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1032
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115b7325099754b50800000000000000
+      internalID: 6576796491606111505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 946
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3a7452cb3cba300800000000000000
+      internalID: 264520215978025911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 990
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068c610c4862ebad0800000000000000
+      internalID: -2684665976265979808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_34
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 987
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fddbc41372b7d650800000000000000
+      internalID: 6257666414594481650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_35
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 946
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730d72e4a5e196d70800000000000000
+      internalID: 9036787500502732855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_36
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 990
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7364570b7f842090800000000000000
+      internalID: -8060159674519624835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_37
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 987
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e1db170db02c000800000000000000
+      internalID: 54619135371189802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 912
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb9bcf4c0c934070800000000000000
+      internalID: 8089480932379827176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 954
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128689d57a9e9edf0800000000000000
+      internalID: -150332207501121503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_40
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 926
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70616dba7acb26670800000000000000
+      internalID: 8530588072521635335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_41
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 912
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0a9c2fc6eda75a0800000000000000
+      internalID: -6522656550781607754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_42
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 954
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e58310ce42f1e20800000000000000
+      internalID: 3323415646074068521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_43
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 926
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f958360030296c0800000000000000
+      internalID: -4138241807395479697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 881
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eacecd999aeedd10800000000000000
+      internalID: 2152415617428146914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_45
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 892
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49d2399eb4063d50800000000000000
+      internalID: 6716561110930217293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_46
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 881
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2cdf16dd3393760800000000000000
+      internalID: 7438033285503894265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_47
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 892
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35ce25d1ee7beeb0800000000000000
+      internalID: -4689515078566886085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 495
+        width: 110
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f621512447686c6d0800000000000000
+      internalID: -2970539070321257873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 554
+        width: 110
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bb2603a3f90aff0800000000000000
+      internalID: -26846525495526574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 495
+        width: 110
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724822758858cfcd0800000000000000
+      internalID: -2522994870610394073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_51
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 495
+        width: 58
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adb613122d0e7970800000000000000
+      internalID: 8754449165655129510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_52
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 495
+        width: 23
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c9cfb9e0d7d2310800000000000000
+      internalID: 1381898162372647954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 796
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3292ca36789d98e80800000000000000
+      internalID: -8175764472998385373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_54
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 790
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0cecaf026b0b4b0800000000000000
+      internalID: -5426637298218385153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_55
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 495
+        width: 110
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3608abf087e5e20800000000000000
+      internalID: 3341239982504305587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_56
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 554
+        width: 110
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f87cbec1fe4f340800000000000000
+      internalID: 4896801602352418605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_57
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 495
+        width: 110
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6bc2275fa0c86f0800000000000000
+      internalID: -681157394340989271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_58
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 495
+        width: 58
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8df182454763160800000000000000
+      internalID: 7004914175220635825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_59
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 495
+        width: 23
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551a0b6877abb3cf0800000000000000
+      internalID: -271418330002185899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_60
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 796
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea65f11029283a70800000000000000
+      internalID: 8806834289039993569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_61
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 790
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a26e811e00f43b0800000000000000
+      internalID: -5526197250974930273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_62
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 769
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b6e17e174799010800000000000000
+      internalID: 1196115208601234184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_63
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 769
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352eb93737e4c3030800000000000000
+      internalID: 3475739270190981715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_64
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 741
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bb770769343ae50800000000000000
+      internalID: 6819368574180113292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_65
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 741
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c686138f21afac0800000000000000
+      internalID: -3820720476680328157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_66
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 720
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c245cb387c1c44420800000000000000
+      internalID: 2613426746434540588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_67
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 720
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fcc08ca8b069580800000000000000
+      internalID: -8820850129468862667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_68
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 689
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89631e4677dbcc30800000000000000
+      internalID: 4380831965663947150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_69
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 689
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab43976f29b18300800000000000000
+      internalID: 252686667361766313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_70
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 646
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2073aa05c922f90800000000000000
+      internalID: -6979844602203798831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_71
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 668
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fa5dc84e3bdb5e0800000000000000
+      internalID: -1892158474229010545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_72
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 646
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5883c58c2a202d160800000000000000
+      internalID: 7048699264957692037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_73
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 668
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72391e7f2c54553f0800000000000000
+      internalID: -912746645787929817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_74
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 619
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb94a3314ad816b0800000000000000
+      internalID: -5325266585791456259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_75
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 642
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d8bb9767ffdb70800000000000000
+      internalID: 8926125010837886287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_76
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 636
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82fbcc7c95761680800000000000000
+      internalID: -8784704708170485107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_77
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 619
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d5c48d18b9eb670800000000000000
+      internalID: 8556447324032490881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_78
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 642
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d170b3c54cd71f50800000000000000
+      internalID: 6852187550261473753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_79
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 636
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7778a539cbe4e560800000000000000
+      internalID: 7342252541941938045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_80
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 601
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cda591de5cc796d0800000000000000
+      internalID: -2983691520494424632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_81
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 610
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac8f09e7c10cd320800000000000000
+      internalID: 2583942244324052138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_82
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 601
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03869517819c4810800000000000000
+      internalID: 1750934364509078286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_83
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 610
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782daef0bb7f45590800000000000000
+      internalID: -7686246281216601465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_84
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 597
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699e0fbbb5c0742a0800000000000000
+      internalID: -6753415528084084330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_85
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 597
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d125263684a37fda0800000000000000
+      internalID: -5911191903321042403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_86
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 577
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92c40dcacbde59a0800000000000000
+      internalID: -6242310369419410790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_87
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 578
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ef29e281738edf0800000000000000
+      internalID: -150810010516783500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_88
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 577
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef4808b9d434c160800000000000000
+      internalID: 7044813826814398438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_89
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 578
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9caf67dd3e0f5580800000000000000
+      internalID: -8836328285107409765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_90
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 522
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466b8a4809ce4d600800000000000000
+      internalID: 492278364735321700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_91
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 522
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816eed2967d1ec140800000000000000
+      internalID: 4741759852775138840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 271
+        width: 90
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dd24291a8817480800000000000000
+      internalID: -8903184760809792186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 302
+        width: 90
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facc22327dac442d0800000000000000
+      internalID: -3295286001972097873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 271
+        width: 90
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4f57d73b1acce90800000000000000
+      internalID: -7004045528191863639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_95
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 271
+        width: 57
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820e942282bac0e40800000000000000
+      internalID: 5624058223541215272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_96
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 271
+        width: 19
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4806c3eaf4ddfe0800000000000000
+      internalID: -1162685519035857759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_97
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 453
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd5fed02a3a80320800000000000000
+      internalID: 2524447507554983416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_98
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 271
+        width: 90
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99be1234d76bbf4c0800000000000000
+      internalID: -4252604774007837799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_99
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 302
+        width: 90
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353cc7dde67f52250800000000000000
+      internalID: 5919409340782789459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_100
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 271
+        width: 90
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105b4a559a52fea60800000000000000
+      internalID: 7705418896670766337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_101
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 271
+        width: 57
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605fef159358329a0800000000000000
+      internalID: -6259012575879564026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_102
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 271
+        width: 19
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d103b2c1a97503530800000000000000
+      internalID: 3832659602301464605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_103
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 453
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fe831bcaa193e00800000000000000
+      internalID: 1024879719213494159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_104
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 419
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9865f02d70caeb2a0800000000000000
+      internalID: -6719744444401232247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_105
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 428
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f12c5b72d39b7db0800000000000000
+      internalID: -4793074846183710216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_106
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 425
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f846081adf35e10800000000000000
+      internalID: 2185369114290458459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_107
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 419
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c01526bd063430800000000000000
+      internalID: 3762209614671693031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_108
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 428
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a56eb1049278be0800000000000000
+      internalID: -1475164997617821109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_109
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 425
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9dec69351de21a0800000000000000
+      internalID: -6832293427731834441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_110
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 383
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf05ec05b2154a30800000000000000
+      internalID: 4198782796407574454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_111
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 404
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87068b3b1778ad160800000000000000
+      internalID: 7051097089018191992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_112
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 383
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac3e8e77f36a5130800000000000000
+      internalID: 3556264770393750702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_113
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 404
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a271f0b4fae1770800000000000000
+      internalID: 8583490676725328429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_114
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 361
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8018a6827fd5cd8d0800000000000000
+      internalID: -2820275950524399352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_115
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 374
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf1fbbf11d5949e0800000000000000
+      internalID: -1636674657753030742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_116
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 361
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e0a205d532a83a0800000000000000
+      internalID: -6662473815057363349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_117
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 374
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7204d007f3aa2d60800000000000000
+      internalID: 7866279980422136443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_118
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 331
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e181e07fe4eff7b0800000000000000
+      internalID: -5188176528665378328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_119
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 338
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f1cab845716060800000000000000
+      internalID: 6944961055613383232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_120
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 331
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232407c090637f470800000000000000
+      internalID: 8428264640138461746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_121
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 338
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836443130eb7533b0800000000000000
+      internalID: -5533380364326386120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_122
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 312
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba0dd3290d9cd310800000000000000
+      internalID: 1431191444178930367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_123
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 312
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7793bfd2da50fe20800000000000000
+      internalID: 3382303181897963391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 285
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c734f93a6f94f82d0800000000000000
+      internalID: -3274317080419155076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_125
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 295
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80148c8135b5afa0800000000000000
+      internalID: -5790022521499414386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_126
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 285
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d49d6e93f0799f30800000000000000
+      internalID: 4582818287463535825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_127
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 295
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51409e7380894990800000000000000
+      internalID: -7401243210354245284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_128
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 111
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1db050bd0b1c7940800000000000000
+      internalID: 5295137007487466780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_129
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 120
+        width: 90
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e07377a054c9490800000000000000
+      internalID: -7738234148477268394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_130
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 111
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3192dd26d9d9769f0800000000000000
+      internalID: -475237936370210541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_131
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 111
+        width: 56
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f0ef2cb2933eb40800000000000000
+      internalID: 5468277232675720999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_132
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 111
+        width: 24
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58530de711613b300800000000000000
+      internalID: 266581067342820741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_133
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 213
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806149a5dc1f6a840800000000000000
+      internalID: 5235137481155024392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_134
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 206
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0918ffa6dbe8d9db0800000000000000
+      internalID: -4783510285002505840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_135
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 111
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e84d44d1e66add90800000000000000
+      internalID: -7072227144716433181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_136
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 120
+        width: 90
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c962634a276386ca0800000000000000
+      internalID: -6023504635598854500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_137
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 111
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c187c760af80090800000000000000
+      internalID: -8067923826669249461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_138
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 111
+        width: 56
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16464b45458995b00800000000000000
+      internalID: 817852295310238817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_139
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 111
+        width: 24
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17b2f7eea17984b0800000000000000
+      internalID: -5437690079043471590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_140
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 213
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823007ef8e702b360800000000000000
+      internalID: 7183813052891923240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_141
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 206
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a256aa16658b3b0800000000000000
+      internalID: -5496548367735117180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_142
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae6868e9cbae13d0800000000000000
+      internalID: -3233958598729503062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_143
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 192
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03903a653748d4430800000000000000
+      internalID: 3768814094088603952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_144
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 152
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfd01bcc662fa710800000000000000
+      internalID: 1706625032501911517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_145
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 170
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f8a3660ab28c20800000000000000
+      internalID: 3207330421245802757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_146
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 172
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ee828392d83ccd0800000000000000
+      internalID: -2539030556731445612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_147
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 152
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093281c930058c3f0800000000000000
+      internalID: -880365750716980336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_148
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 170
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395c86115428e5890800000000000000
+      internalID: -7467387898977270381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_149
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 172
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef8c5b2ae8fe4fc0800000000000000
+      internalID: -3508593375041515540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_150
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2276f7532402cf350800000000000000
+      internalID: 6051747468016576290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_151
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55077c0decb391e50800000000000000
+      internalID: 6780516473435025493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_152
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef35f6380143fd50800000000000000
+      internalID: 6769826168405573614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_153
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 43
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afea7b3279c0cb590800000000000000
+      internalID: -7657231423157850374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_154
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 14
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c609d1cb87a51bf80800000000000000
+      internalID: -8092587580809441172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_155
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb65421279d5697b0800000000000000
+      internalID: -5217880214584666437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_156
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbee6812c2aca3120800000000000000
+      internalID: 2394448442790702783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_157
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e78d8d2e1a57f00800000000000000
+      internalID: 1113974478516813329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_158
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59b12f324e623360800000000000000
+      internalID: 7147896789396470110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_159
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 43
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6754b4d5ce3afc0800000000000000
+      internalID: -3484681801215674719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_160
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 14
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171d7e67f71723670800000000000000
+      internalID: 8516994637580718449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_161
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 91
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e803e72e77d49d40800000000000000
+      internalID: 5590329974308669670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_162
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 62
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6aa5f095ec7647f0800000000000000
+      internalID: -628677772550231442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_163
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 61
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccf29c5db7dee090800000000000000
+      internalID: -8003222279488865083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_164
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 62
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0ac02edf4c65d40800000000000000
+      internalID: 5572858183615815874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_165
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 61
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d96cb9a7c578c30800000000000000
+      internalID: 4361556445800865148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_166
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfa45b3578462be0800000000000000
+      internalID: -1502433757337702470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_167
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 31
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a71af8e3f793db0800000000000000
+      internalID: -4811674820194239963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_168
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b537a4ae046f750800000000000000
+      internalID: 6338324900586150712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_169
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 31
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6c73e857a467b20800000000000000
+      internalID: 3131772459640407716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_170
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecf5784b3e4e1aa0800000000000000
+      internalID: -6188422821434753817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_171
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 12
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34e140231f6f41d0800000000000000
+      internalID: -3364348268686220228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_172
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5a5d032321e1cd0800000000000000
+      internalID: -2585609129287113299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_173
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 12
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee75274d27bd8210800000000000000
+      internalID: 1336926069493956331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_174
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 16
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad60bba6f71a86860800000000000000
+      internalID: 7523440746145973978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden-Tree_175
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 16
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e475436f1d007670800000000000000
+      internalID: 8534335722327733478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Golden-Tree_0: -8938702890404128826
+      Golden-Tree_1: -6488973390687056034
+      Golden-Tree_10: -4447536053467137959
+      Golden-Tree_100: 7705418896670766337
+      Golden-Tree_101: -6259012575879564026
+      Golden-Tree_102: 3832659602301464605
+      Golden-Tree_103: 1024879719213494159
+      Golden-Tree_104: -6719744444401232247
+      Golden-Tree_105: -4793074846183710216
+      Golden-Tree_106: 2185369114290458459
+      Golden-Tree_107: 3762209614671693031
+      Golden-Tree_108: -1475164997617821109
+      Golden-Tree_109: -6832293427731834441
+      Golden-Tree_11: -6146015130133899484
+      Golden-Tree_110: 4198782796407574454
+      Golden-Tree_111: 7051097089018191992
+      Golden-Tree_112: 3556264770393750702
+      Golden-Tree_113: 8583490676725328429
+      Golden-Tree_114: -2820275950524399352
+      Golden-Tree_115: -1636674657753030742
+      Golden-Tree_116: -6662473815057363349
+      Golden-Tree_117: 7866279980422136443
+      Golden-Tree_118: -5188176528665378328
+      Golden-Tree_119: 6944961055613383232
+      Golden-Tree_12: 8498486392334216767
+      Golden-Tree_120: 8428264640138461746
+      Golden-Tree_121: -5533380364326386120
+      Golden-Tree_122: 1431191444178930367
+      Golden-Tree_123: 3382303181897963391
+      Golden-Tree_124: -3274317080419155076
+      Golden-Tree_125: -5790022521499414386
+      Golden-Tree_126: 4582818287463535825
+      Golden-Tree_127: -7401243210354245284
+      Golden-Tree_128: 5295137007487466780
+      Golden-Tree_129: -7738234148477268394
+      Golden-Tree_13: -8693769586386110303
+      Golden-Tree_130: -475237936370210541
+      Golden-Tree_131: 5468277232675720999
+      Golden-Tree_132: 266581067342820741
+      Golden-Tree_133: 5235137481155024392
+      Golden-Tree_134: -4783510285002505840
+      Golden-Tree_135: -7072227144716433181
+      Golden-Tree_136: -6023504635598854500
+      Golden-Tree_137: -8067923826669249461
+      Golden-Tree_138: 817852295310238817
+      Golden-Tree_139: -5437690079043471590
+      Golden-Tree_14: 763499513516208527
+      Golden-Tree_140: 7183813052891923240
+      Golden-Tree_141: -5496548367735117180
+      Golden-Tree_142: -3233958598729503062
+      Golden-Tree_143: 3768814094088603952
+      Golden-Tree_144: 1706625032501911517
+      Golden-Tree_145: 3207330421245802757
+      Golden-Tree_146: -2539030556731445612
+      Golden-Tree_147: -880365750716980336
+      Golden-Tree_148: -7467387898977270381
+      Golden-Tree_149: -3508593375041515540
+      Golden-Tree_15: 9203837406776839397
+      Golden-Tree_150: 6051747468016576290
+      Golden-Tree_151: 6780516473435025493
+      Golden-Tree_152: 6769826168405573614
+      Golden-Tree_153: -7657231423157850374
+      Golden-Tree_154: -8092587580809441172
+      Golden-Tree_155: -5217880214584666437
+      Golden-Tree_156: 2394448442790702783
+      Golden-Tree_157: 1113974478516813329
+      Golden-Tree_158: 7147896789396470110
+      Golden-Tree_159: -3484681801215674719
+      Golden-Tree_16: 3906385423719198282
+      Golden-Tree_160: 8516994637580718449
+      Golden-Tree_161: 5590329974308669670
+      Golden-Tree_162: -628677772550231442
+      Golden-Tree_163: -8003222279488865083
+      Golden-Tree_164: 5572858183615815874
+      Golden-Tree_165: 4361556445800865148
+      Golden-Tree_166: -1502433757337702470
+      Golden-Tree_167: -4811674820194239963
+      Golden-Tree_168: 6338324900586150712
+      Golden-Tree_169: 3131772459640407716
+      Golden-Tree_17: -521065853668143494
+      Golden-Tree_170: -6188422821434753817
+      Golden-Tree_171: -3364348268686220228
+      Golden-Tree_172: -2585609129287113299
+      Golden-Tree_173: 1336926069493956331
+      Golden-Tree_174: 7523440746145973978
+      Golden-Tree_175: 8534335722327733478
+      Golden-Tree_18: 2902520348504422135
+      Golden-Tree_19: 7350605114960718756
+      Golden-Tree_2: 4344561138801708993
+      Golden-Tree_20: 1501105544140324786
+      Golden-Tree_21: 2789245217763248571
+      Golden-Tree_22: 6208751230308777215
+      Golden-Tree_23: 2533839514792052985
+      Golden-Tree_24: 728423274163859170
+      Golden-Tree_25: 4320855862931526032
+      Golden-Tree_26: -1450006815037851870
+      Golden-Tree_27: 747222104763179389
+      Golden-Tree_28: -911861679036730888
+      Golden-Tree_29: -6210222313993336901
+      Golden-Tree_3: -5043557972278803040
+      Golden-Tree_30: 4671924683722533472
+      Golden-Tree_31: 6576796491606111505
+      Golden-Tree_32: 264520215978025911
+      Golden-Tree_33: -2684665976265979808
+      Golden-Tree_34: 6257666414594481650
+      Golden-Tree_35: 9036787500502732855
+      Golden-Tree_36: -8060159674519624835
+      Golden-Tree_37: 54619135371189802
+      Golden-Tree_38: 8089480932379827176
+      Golden-Tree_39: -150332207501121503
+      Golden-Tree_4: -2999151043966327390
+      Golden-Tree_40: 8530588072521635335
+      Golden-Tree_41: -6522656550781607754
+      Golden-Tree_42: 3323415646074068521
+      Golden-Tree_43: -4138241807395479697
+      Golden-Tree_44: 2152415617428146914
+      Golden-Tree_45: 6716561110930217293
+      Golden-Tree_46: 7438033285503894265
+      Golden-Tree_47: -4689515078566886085
+      Golden-Tree_48: -2970539070321257873
+      Golden-Tree_49: -26846525495526574
+      Golden-Tree_5: 366964088511928432
+      Golden-Tree_50: -2522994870610394073
+      Golden-Tree_51: 8754449165655129510
+      Golden-Tree_52: 1381898162372647954
+      Golden-Tree_53: -8175764472998385373
+      Golden-Tree_54: -5426637298218385153
+      Golden-Tree_55: 3341239982504305587
+      Golden-Tree_56: 4896801602352418605
+      Golden-Tree_57: -681157394340989271
+      Golden-Tree_58: 7004914175220635825
+      Golden-Tree_59: -271418330002185899
+      Golden-Tree_6: 7839254241027738872
+      Golden-Tree_60: 8806834289039993569
+      Golden-Tree_61: -5526197250974930273
+      Golden-Tree_62: 1196115208601234184
+      Golden-Tree_63: 3475739270190981715
+      Golden-Tree_64: 6819368574180113292
+      Golden-Tree_65: -3820720476680328157
+      Golden-Tree_66: 2613426746434540588
+      Golden-Tree_67: -8820850129468862667
+      Golden-Tree_68: 4380831965663947150
+      Golden-Tree_69: 252686667361766313
+      Golden-Tree_7: -38063980326684024
+      Golden-Tree_70: -6979844602203798831
+      Golden-Tree_71: -1892158474229010545
+      Golden-Tree_72: 7048699264957692037
+      Golden-Tree_73: -912746645787929817
+      Golden-Tree_74: -5325266585791456259
+      Golden-Tree_75: 8926125010837886287
+      Golden-Tree_76: -8784704708170485107
+      Golden-Tree_77: 8556447324032490881
+      Golden-Tree_78: 6852187550261473753
+      Golden-Tree_79: 7342252541941938045
+      Golden-Tree_8: 8609479780962070707
+      Golden-Tree_80: -2983691520494424632
+      Golden-Tree_81: 2583942244324052138
+      Golden-Tree_82: 1750934364509078286
+      Golden-Tree_83: -7686246281216601465
+      Golden-Tree_84: -6753415528084084330
+      Golden-Tree_85: -5911191903321042403
+      Golden-Tree_86: -6242310369419410790
+      Golden-Tree_87: -150810010516783500
+      Golden-Tree_88: 7044813826814398438
+      Golden-Tree_89: -8836328285107409765
+      Golden-Tree_9: -2917573643986955614
+      Golden-Tree_90: 492278364735321700
+      Golden-Tree_91: 4741759852775138840
+      Golden-Tree_92: -8903184760809792186
+      Golden-Tree_93: -3295286001972097873
+      Golden-Tree_94: -7004045528191863639
+      Golden-Tree_95: 5624058223541215272
+      Golden-Tree_96: -1162685519035857759
+      Golden-Tree_97: 2524447507554983416
+      Golden-Tree_98: -4252604774007837799
+      Golden-Tree_99: 5919409340782789459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
