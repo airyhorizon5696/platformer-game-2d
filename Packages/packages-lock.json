@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.jfcartier.collider-event-system": {
+      "version": "https://github.com/jfcmontmorency/collider-event-system.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.19.0"
+      },
+      "hash": "fad135fb6e1c4270507325d0134ab8d3bb132cb6"
+    },
     "com.unity.2d.animation": {
       "version": "15.1.0",
       "depth": 0,
