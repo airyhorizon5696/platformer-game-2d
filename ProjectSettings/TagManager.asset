@@ -8,13 +8,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - background
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
+  - props
+  - ennemies
+  - Player
   - 
   - 
   - 
@@ -40,6 +40,24 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 1-bgblue
+    uniqueID: 827973995
+    locked: 0
+  - name: 2-closetree
+    uniqueID: 3249608129
+    locked: 0
+  - name: 3-vegetation and stuff
+    uniqueID: 4110882797
+    locked: 0
+  - name: props and trap
+    uniqueID: 1498282955
+    locked: 0
+  - name: player
+    uniqueID: 1602676327
+    locked: 0
+  - name: foreground
+    uniqueID: 441285021
     locked: 0
   m_RenderingLayers:
   - Default
