@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: f86fc5d6540a98c4bab5c97b3a4022ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5238886413430083637
+    second: prop_gemini_0
+  - first:
+      213: -9208955315853738820
+    second: prop_gemini_1
+  - first:
+      213: 5768491388049627065
+    second: prop_gemini_2
+  - first:
+      213: -4473780867676595727
+    second: prop_gemini_3
+  - first:
+      213: 7247011213524244777
+    second: prop_gemini_4
+  - first:
+      213: 6623846763678777806
+    second: prop_gemini_5
+  - first:
+      213: 6582387798077173120
+    second: prop_gemini_6
+  - first:
+      213: 246272793027506539
+    second: prop_gemini_7
+  - first:
+      213: -1702289733824213948
+    second: prop_gemini_8
+  - first:
+      213: -5530439794940450698
+    second: prop_gemini_9
+  - first:
+      213: -5210586336111417845
+    second: prop_gemini_10
+  - first:
+      213: -934308348798542564
+    second: prop_gemini_11
+  - first:
+      213: -7790654340749895594
+    second: prop_gemini_12
+  - first:
+      213: -1788427387394776225
+    second: prop_gemini_13
+  - first:
+      213: 1466898193030179518
+    second: prop_gemini_14
+  - first:
+      213: -6779426061070077791
+    second: prop_gemini_15
+  - first:
+      213: 5259440239709896410
+    second: prop_gemini_16
+  - first:
+      213: 1805047468795966063
+    second: prop_gemini_17
+  - first:
+      213: -9181430009804153970
+    second: prop_gemini_18
+  - first:
+      213: 2184635900479373172
+    second: prop_gemini_19
+  - first:
+      213: -3402486392433247436
+    second: prop_gemini_20
+  - first:
+      213: -7153852782251629729
+    second: prop_gemini_21
+  - first:
+      213: -8071938775117599400
+    second: prop_gemini_22
+  - first:
+      213: -4370792113847462410
+    second: prop_gemini_23
+  - first:
+      213: 4823780423380288983
+    second: prop_gemini_24
+  - first:
+      213: -6252658994297658497
+    second: prop_gemini_25
+  - first:
+      213: 6535698200190117507
+    second: prop_gemini_26
+  - first:
+      213: 8641890695749090133
+    second: prop_gemini_27
+  - first:
+      213: 1646368503076182835
+    second: prop_gemini_28
+  - first:
+      213: 4322297201994573636
+    second: prop_gemini_29
+  - first:
+      213: 37580212748046178
+    second: prop_gemini_30
+  - first:
+      213: 1663856924508496033
+    second: prop_gemini_31
+  - first:
+      213: 3669355583418031298
+    second: prop_gemini_32
+  - first:
+      213: 1092528787294055346
+    second: prop_gemini_33
+  - first:
+      213: 2748765442192060580
+    second: prop_gemini_34
+  - first:
+      213: -1819313051963275787
+    second: prop_gemini_35
+  - first:
+      213: -7224397108660927601
+    second: prop_gemini_36
+  - first:
+      213: -6903526058018856915
+    second: prop_gemini_37
+  - first:
+      213: 1485536405694110860
+    second: prop_gemini_38
+  - first:
+      213: 5463975519411416970
+    second: prop_gemini_39
+  - first:
+      213: 2607051640566415482
+    second: prop_gemini_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prop_gemini_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1203
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf21e4509cbb47b0800000000000000
+      internalID: -5238886413430083637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1207
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcb71e6ee7333080800000000000000
+      internalID: -9208955315853738820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1207
+        width: 58
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7199aca5ccd0050800000000000000
+      internalID: 5768491388049627065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1207
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f992330100f9e1c0800000000000000
+      internalID: -4473780867676595727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1201
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92992696d4e829460800000000000000
+      internalID: 7247011213524244777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1169
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c1b37981aceb50800000000000000
+      internalID: 6623846763678777806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1169
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d614ec3d6595b50800000000000000
+      internalID: 6582387798077173120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1012
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b617f3aeccfea6300800000000000000
+      internalID: 246272793027506539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1015
+        width: 118
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c0d9691804068e0800000000000000
+      internalID: -1702289733824213948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1015
+        width: 127
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678e3eade4eef33b0800000000000000
+      internalID: -5530439794940450698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 842
+        width: 123
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06239c855740b7b0800000000000000
+      internalID: -5210586336111417845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 839
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d5e27c18ba803f0800000000000000
+      internalID: -934308348798542564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 840
+        width: 124
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6585fbb572902e390800000000000000
+      internalID: -7790654340749895594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 599
+        width: 180
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5321c344ca3e27e0800000000000000
+      internalID: -1788427387394776225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 704
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebae93572287b5410800000000000000
+      internalID: 1466898193030179518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 704
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a074e89ae3aae1a0800000000000000
+      internalID: -6779426061070077791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_16
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 703
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adebd4548094df840800000000000000
+      internalID: 5259440239709896410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 704
+        width: 143
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f623d4cfb11dc0910800000000000000
+      internalID: 1805047468795966063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 619
+        width: 129
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b13872d02059080800000000000000
+      internalID: -9181430009804153970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 579
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f73abd6c2615e10800000000000000
+      internalID: 2184635900479373172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 579
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b7ae937a0f7c0d0800000000000000
+      internalID: -3402486392433247436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 579
+        width: 123
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a37a1cc868bc90800000000000000
+      internalID: -7153852782251629729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 539
+        width: 151
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85de9647376baff80800000000000000
+      internalID: -8071938775117599400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 406
+        width: 24
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f51b0bdab3d753c0800000000000000
+      internalID: -4370792113847462410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 347
+        width: 70
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5c012dcb281f240800000000000000
+      internalID: 4823780423380288983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 343
+        width: 95
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73ac3fc5c71a39a0800000000000000
+      internalID: -6252658994297658497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 357
+        width: 116
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386ed7da2e673ba50800000000000000
+      internalID: 6535698200190117507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 365
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bb0e31dc92ee770800000000000000
+      internalID: 8641890695749090133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_28
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 347
+        width: 109
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b5f334e6319d610800000000000000
+      internalID: 1646368503076182835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 394
+        width: 50
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4472d8a9762ebfb30800000000000000
+      internalID: 4322297201994573636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_30
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 347
+        width: 45
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f4e6f1103858000800000000000000
+      internalID: 37580212748046178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 168
+        width: 175
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0276eae05371710800000000000000
+      internalID: 1663856924508496033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 168
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc5a38467b2ce230800000000000000
+      internalID: 3669355583418031298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 168
+        width: 153
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbec81c421792f00800000000000000
+      internalID: 1092528787294055346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 111
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a03ab82b93952620800000000000000
+      internalID: 2748765442192060580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 5
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f54f7a1b6080c6e0800000000000000
+      internalID: -1819313051963275787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 5
+        width: 200
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8308ed2b19cdbb90800000000000000
+      internalID: -7224397108660927601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_37
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 144
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20222e60afb130a0800000000000000
+      internalID: -6903526058018856915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 145
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cde428d7fad9410800000000000000
+      internalID: 1485536405694110860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 133
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa2f719c0f3db40800000000000000
+      internalID: 5463975519411416970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_gemini_40
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 144
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a708f0387ab1e2420800000000000000
+      internalID: 2607051640566415482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      prop_gemini_0: -5238886413430083637
+      prop_gemini_1: -9208955315853738820
+      prop_gemini_10: -5210586336111417845
+      prop_gemini_11: -934308348798542564
+      prop_gemini_12: -7790654340749895594
+      prop_gemini_13: -1788427387394776225
+      prop_gemini_14: 1466898193030179518
+      prop_gemini_15: -6779426061070077791
+      prop_gemini_16: 5259440239709896410
+      prop_gemini_17: 1805047468795966063
+      prop_gemini_18: -9181430009804153970
+      prop_gemini_19: 2184635900479373172
+      prop_gemini_2: 5768491388049627065
+      prop_gemini_20: -3402486392433247436
+      prop_gemini_21: -7153852782251629729
+      prop_gemini_22: -8071938775117599400
+      prop_gemini_23: -4370792113847462410
+      prop_gemini_24: 4823780423380288983
+      prop_gemini_25: -6252658994297658497
+      prop_gemini_26: 6535698200190117507
+      prop_gemini_27: 8641890695749090133
+      prop_gemini_28: 1646368503076182835
+      prop_gemini_29: 4322297201994573636
+      prop_gemini_3: -4473780867676595727
+      prop_gemini_30: 37580212748046178
+      prop_gemini_31: 1663856924508496033
+      prop_gemini_32: 3669355583418031298
+      prop_gemini_33: 1092528787294055346
+      prop_gemini_34: 2748765442192060580
+      prop_gemini_35: -1819313051963275787
+      prop_gemini_36: -7224397108660927601
+      prop_gemini_37: -6903526058018856915
+      prop_gemini_38: 1485536405694110860
+      prop_gemini_39: 5463975519411416970
+      prop_gemini_4: 7247011213524244777
+      prop_gemini_40: 2607051640566415482
+      prop_gemini_5: 6623846763678777806
+      prop_gemini_6: 6582387798077173120
+      prop_gemini_7: 246272793027506539
+      prop_gemini_8: -1702289733824213948
+      prop_gemini_9: -5530439794940450698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
