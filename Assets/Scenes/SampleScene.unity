@@ -562,9 +562,9 @@ GameObject:
   - component: {fileID: 1000485791}
   - component: {fileID: 1000485790}
   - component: {fileID: 1000485789}
+  - component: {fileID: 1000485793}
   - component: {fileID: 1000485788}
   - component: {fileID: 1000485792}
-  - component: {fileID: 1000485793}
   m_Layer: 0
   m_Name: player
   m_TagString: Untagged
@@ -754,7 +754,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1000485787}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5fa3ba5fe27f4a34090dbfbc0a9a672f, type: 3}
+  m_Script: {fileID: 11500000, guid: 296f5442700824c43857d2d5c0df9e19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   moveLeftKey: 15
@@ -762,24 +762,17 @@ MonoBehaviour:
   jumpKey1: 37
   jumpKey2: 1
   dashKey: 51
-  moveSpeed: 6
-  jumpForce: 12
+  moveSpeed: 3
+  jumpForce: 5
   fallMultiplier: 2.5
-  dashSpeed: 18
+  dashSpeed: 10
   dashDuration: 0.15
-  dashCooldown: 2
+  dashCooldown: 1.5
   groundCheck: {fileID: 517647996}
   groundCheckRadius: 0.15
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
-  wallCheckRight: {fileID: 1494368258}
-  wallCheckLeft: {fileID: 1538646422}
-  wallCheckRadius: 0.1
-  wallLayer:
-    serializedVersion: 2
-    m_Bits: 0
-  wallSlideSpeed: 1.5
 --- !u!1 &1076793169
 GameObject:
   m_ObjectHideFlags: 0

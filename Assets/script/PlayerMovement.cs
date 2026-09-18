@@ -17,29 +17,21 @@ public class PlayerMovement : MonoBehaviour
 
     [Header("Saut (hauteur fixe, un seul clic)")]
     public float jumpForce = 12f;
-    public float fallMultiplier = 2.5f; // Rend la chute plus rapide/snappy (n'affecte pas la hauteur du saut)
+    public float fallMultiplier = 2.5f; // Rend la chute plus rapide/snappy
 
     [Header("Dash")]
     public float dashSpeed = 18f;
     public float dashDuration = 0.15f;
-    public float dashCooldown = 2f;     // Temps minimum entre deux dashs, même si tu retouches le sol avant
+    public float dashCooldown = 2f;     // Temps minimum entre deux dashs
 
     [Header("Détection du sol")]
     public Transform groundCheck;
     public float groundCheckRadius = 0.15f;
     public LayerMask groundLayer;
 
-    [Header("Glissade au mur")]
-    public Transform wallCheckRight;    // Objet vide placé sur le bord droit du collider
-    public Transform wallCheckLeft;     // Objet vide placé sur le bord gauche du collider
-    public float wallCheckRadius = 0.1f;
-    public LayerMask wallLayer;         // Peut être la même Layer que Ground
-    public float wallSlideSpeed = 1.5f; // Vitesse de descente lente le long du mur
-
     private Rigidbody2D rb;
     private Animator anim;
     private bool isGrounded;
-    private bool isTouchingWall;
     private float horizontalInput;
     private bool facingRight = true;
 
@@ -67,16 +59,11 @@ public class PlayerMovement : MonoBehaviour
         // Détection du sol
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
 
-        // Détection des murs (gauche ou droite)
-        bool touchingRightWall = wallCheckRight != null && Physics2D.OverlapCircle(wallCheckRight.position, wallCheckRadius, wallLayer);
-        bool touchingLeftWall = wallCheckLeft != null && Physics2D.OverlapCircle(wallCheckLeft.position, wallCheckRadius, wallLayer);
-        isTouchingWall = touchingRightWall || touchingLeftWall;
-
         // Le dash se recharge seulement au contact du sol
         if (isGrounded) dashReady = true;
         dashCooldownTimer -= Time.deltaTime;
 
-        // Saut : hauteur fixe, un seul clic, aucune variation possible en tenant la touche
+        // Saut : hauteur fixe, un seul clic
         bool jumpPressed = kb[jumpKey1].wasPressedThisFrame || kb[jumpKey2].wasPressedThisFrame;
         if (jumpPressed && isGrounded && !isDashing)
         {
@@ -84,7 +71,7 @@ public class PlayerMovement : MonoBehaviour
             if (anim != null) anim.SetTrigger("Jump");
         }
 
-        // Dash : nécessite d'avoir touché le sol depuis le dernier dash ET que le cooldown soit écoulé
+        // Dash : nécessite le sol touché depuis le dernier dash ET le cooldown écoulé
         if (kb[dashKey].wasPressedThisFrame && dashReady && dashCooldownTimer <= 0f && !isDashing)
         {
             StartDash();
@@ -104,7 +91,6 @@ public class PlayerMovement : MonoBehaviour
         {
             anim.SetFloat("Speed", Mathf.Abs(horizontalInput));
             anim.SetBool("IsGrounded", isGrounded);
-            anim.SetBool("IsWallSliding", isTouchingWall && !isGrounded && rb.linearVelocity.y < 0f);
         }
     }
 
@@ -119,15 +105,8 @@ public class PlayerMovement : MonoBehaviour
 
         rb.linearVelocity = new Vector2(horizontalInput * moveSpeed, rb.linearVelocity.y);
 
-        // Glissade au mur : si on touche un mur, qu'on n'est pas au sol, et qu'on tombe -> ralentit la chute
-        bool slidingOnWall = isTouchingWall && !isGrounded && rb.linearVelocity.y < 0f;
-        if (slidingOnWall)
+        if (rb.linearVelocity.y < 0)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -wallSlideSpeed));
-        }
-        else if (rb.linearVelocity.y < 0)
-        {
-            // Chute normale (plus rapide/snappy), pas de logique liée à la durée d'appui du saut
             rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.fixedDeltaTime;
         }
     }
@@ -158,7 +137,5 @@ public class PlayerMovement : MonoBehaviour
     void OnDrawGizmosSelected()
     {
         if (groundCheck != null) Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
-        if (wallCheckRight != null) Gizmos.DrawWireSphere(wallCheckRight.position, wallCheckRadius);
-        if (wallCheckLeft != null) Gizmos.DrawWireSphere(wallCheckLeft.position, wallCheckRadius);
     }
 }
