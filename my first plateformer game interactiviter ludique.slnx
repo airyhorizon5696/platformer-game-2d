@@ -1,3 +1,5 @@
 ﻿<Solution>
+  <Project Path="ColliderEventSystem.Editor.csproj" />
+  <Project Path="ColliderEventSystem.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
 </Solution>

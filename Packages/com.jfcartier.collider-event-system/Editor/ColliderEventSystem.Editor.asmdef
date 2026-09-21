@@ -1,0 +1,19 @@
+{
+    "name": "ColliderEventSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "ColliderEventSystem",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

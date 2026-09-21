@@ -1,0 +1,4 @@
+.DS_Store
+
+# The global gitignore's "*~" backup-file rule accidentally matches this UPM convention folder name.
+!Samples~/

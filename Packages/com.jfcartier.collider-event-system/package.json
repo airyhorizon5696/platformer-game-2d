@@ -1,0 +1,34 @@
+{
+  "name": "com.jfcartier.collider-event-system",
+  "version": "0.4.7",
+  "displayName": "Collider Event System",
+  "description": "Component-based collider/condition-driven event system: attach ordered Condition and Action components to a GameObject to build zone triggers (ColliderEvent) or continuously-evaluated watchers (ConditionWatcher).",
+  "unity": "6000.4",
+  "unityRelease": "10f1",
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.inputsystem": "1.19.0"
+  },
+  "keywords": [
+    "trigger",
+    "events",
+    "condition",
+    "gameplay"
+  ],
+  "author": {
+    "name": "jfcartier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfcmontmorency/collider-event-system.git"
+  },
+  "documentationUrl": "https://github.com/jfcmontmorency/collider-event-system#readme",
+  "changelogUrl": "https://github.com/jfcmontmorency/collider-event-system/blob/main/CHANGELOG.md",
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "A walkable scene demonstrating Conditions, Actions, and Variables together. Materials are authored for URP - on Built-in RP, run Window > Rendering > Render Pipeline Converter first.",
+      "path": "Samples~/Demo"
+    }
+  ]
+}

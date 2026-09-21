@@ -1,0 +1,16 @@
+#!/bin/sh
+# Samples~ has to lose its tilde temporarily for Unity to show/edit it (the tilde is what
+# keeps it hidden from consumers' Project window until they explicitly import it). If it's
+# currently unhidden for local editing, put the tilde back before this commit is recorded,
+# so it's never accidentally published without it.
+#
+# One-time setup after cloning this repo: git config core.hooksPath .githooks
+
+set -e
+
+if [ -d "Samples" ] && [ ! -d "Samples~" ]; then
+    mv "Samples" "Samples~"
+    # Reconcile both paths: clears any index entries staged under the no-tilde name
+    # (now gone from disk) and stages the content at its Samples~ home instead.
+    git add -A -- "Samples" "Samples~"
+fi

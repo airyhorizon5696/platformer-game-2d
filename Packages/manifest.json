@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.jfcartier.collider-event-system": "https://github.com/jfcmontmorency/collider-event-system.git",
+    "com.jfcartier.collider-event-system": "file:C:/Users/chris/Downloads/collider-event-system-main_2d/collider-event-system-main_2d",
     "com.unity.2d.animation": "15.1.0",
     "com.unity.2d.aseprite": "5.0.3",
     "com.unity.2d.psdimporter": "14.0.3",
