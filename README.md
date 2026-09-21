@@ -1,2 +1,2 @@
-# my first plateformer game interactiviter ludique
+# 2d platformer interactivite ludique
 
