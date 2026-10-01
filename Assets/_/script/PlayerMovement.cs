@@ -67,8 +67,7 @@ public class PlayerMovement : MonoBehaviour
         bool jumpPressed = kb[jumpKey1].wasPressedThisFrame || kb[jumpKey2].wasPressedThisFrame;
         if (jumpPressed && isGrounded && !isDashing)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            if (anim != null) anim.SetTrigger("Jump");
+            PerformJump(jumpForce);
         }
 
         // Dash : nécessite le sol touché depuis le dernier dash ET le cooldown écoulé
@@ -109,6 +108,16 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.fixedDeltaTime;
         }
+    }
+
+    // --- API publique utilisable par d'autres scripts (ex: DoubleJumpAbility) ---
+    public bool IsGrounded => isGrounded;
+    public bool IsDashing => isDashing;
+
+    public void PerformJump(float force)
+    {
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, force);
+        if (anim != null) anim.SetTrigger("Jump");
     }
 
     void StartDash()
