@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: dedafe3ec60edc1408bb80dc793b5975
+guid: 0c458ae5e30b51c429cf3e066ce28e61
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7983065163890641353
-    second: Gemini_Generated_Image_rf851nrf851nrf85_0
+      213: -4220824978587078200
+    second: cage_ouverte_fermer_0
+  - first:
+      213: -7231483783702994668
+    second: cage_ouverte_fermer_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gemini_Generated_Image_rf851nrf851nrf85_0
+      name: cage_ouverte_fermer_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1356
-        height: 768
+        x: 235
+        y: 122
+        width: 220
+        height: 538
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +144,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c94f70787b89ce60800000000000000
-      internalID: 7983065163890641353
+      spriteID: 8c1b83c7b0e9c65c0800000000000000
+      internalID: -4220824978587078200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cage_ouverte_fermer_1
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 122
+        width: 362
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411a26110db94ab90800000000000000
+      internalID: -7231483783702994668
       vertices: []
       indices: 
       edges: []
@@ -161,7 +186,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Gemini_Generated_Image_rf851nrf851nrf85_0: 7983065163890641353
+      cage_ouverte_fermer_0: -4220824978587078200
+      cage_ouverte_fermer_1: -7231483783702994668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
