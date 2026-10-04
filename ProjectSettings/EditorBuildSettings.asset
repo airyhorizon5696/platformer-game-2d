@@ -12,6 +12,15 @@ EditorBuildSettings:
     path: Assets/_/Scenes/Tuto.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/_/Scenes/game over_niv_1.unity
+    guid: bbc5b2b5e5ea09240a89d97910d74711
+  - enabled: 1
+    path: Assets/_/Scenes/game over_niv_2.unity
+    guid: 3d5c919d5b3a6c74f890564fd19a06ad
+  - enabled: 1
+    path: Assets/_/Scenes/game over_niv_3.unity
+    guid: 14ed54bd331fee84fb6c629504ecf918
+  - enabled: 1
     path: Assets/_/Scenes/niveau_1.unity
     guid: b324b040de8049640abc3c1b95d909da
   - enabled: 1
@@ -20,8 +29,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_/Scenes/niveau_3_abysse.unity
     guid: 42bf572b9e22c6248bbf26bdd8151cde
-  - enabled: 1
-    path: Assets/_/Scenes/game over.unity
-    guid: 14ed54bd331fee84fb6c629504ecf918
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

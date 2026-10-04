@@ -137,7 +137,7 @@ TextureImporter:
         width: 220
         height: 538
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,7 +159,7 @@ TextureImporter:
         width: 362
         height: 538
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -172,11 +172,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: cage_ouverte_fermer_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 582
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ed0556c55a5048a4f19f5d99241c5
+      internalID: -1659604045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cage_ouverte_fermer_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 284
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866b5cc35481794bb2ddb9faf1d7655
+      internalID: 961203220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4bcdd922dd4e5014abfc96e2a3ba9b7d
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +232,8 @@ TextureImporter:
     nameFileIdTable:
       cage_ouverte_fermer_0: -4220824978587078200
       cage_ouverte_fermer_1: -7231483783702994668
+      cage_ouverte_fermer_2: -1659604045
+      cage_ouverte_fermer_3: 961203220
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

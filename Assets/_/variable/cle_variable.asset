@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b3d49891e2034bb8a8f41001235a3cd, type: 3}
+  m_Name: cle_variable
+  m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.FloatVariable
+  m_Id: 7587fc80343e414a84caf9423259f5d8
+  Persistent: 0
+  m_InitialValue: 0
