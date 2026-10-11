@@ -343,7 +343,7 @@ RectTransform:
   m_GameObject: {fileID: 374619061}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.518828, y: 2.518828, z: 2.518828}
+  m_LocalScale: {x: 3.4540687, y: 3.4540687, z: 3.4540687}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1353685104}
@@ -351,7 +351,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14, y: -223}
+  m_AnchoredPosition: {x: -14, y: -223.66}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &374619063
@@ -482,7 +482,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -727, y: -412}
+  m_AnchoredPosition: {x: -727, y: -301}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &382489008
@@ -571,7 +571,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -271.875, y: 0, z: -868.038, w: -370.7199}
+  m_margin: {x: 870.9597, y: 0, z: -868.038, w: -64.734985}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -619,7 +619,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -404, y: -48}
+  m_AnchoredPosition: {x: -404, y: -188}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &511962113
@@ -976,7 +976,7 @@ GameObject:
   m_Component:
   - component: {fileID: 964198768}
   - component: {fileID: 964198767}
-  - component: {fileID: 964198766}
+  - component: {fileID: 964198769}
   m_Layer: 0
   m_Name: BG_1
   m_TagString: Untagged
@@ -984,20 +984,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &964198766
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 964198765}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e1d61634508a5554c810069ad1cadcc1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BackgroundControlller
-  cam: {fileID: 87688344}
-  parallaxEffect: 0
 --- !u!212 &964198767
 SpriteRenderer:
   serializedVersion: 3
@@ -1067,12 +1053,27 @@ Transform:
   m_GameObject: {fileID: 964198765}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.96, y: 0, z: 0}
   m_LocalScale: {x: -0.43938854, y: 0.4393886, z: 0.4393886}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &964198769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 964198765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cff607029c0101d40b6f33930173e9a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MouseParallax
+  amplitude: {x: 0.5, y: 0.25}
+  lissage: 6
+  inverser: 1
 --- !u!1 &1031851981
 GameObject:
   m_ObjectHideFlags: 0
@@ -1101,7 +1102,7 @@ RectTransform:
   m_GameObject: {fileID: 1031851981}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.518828, y: 2.518828, z: 2.518828}
+  m_LocalScale: {x: 3.4540687, y: 3.4540687, z: 3.4540687}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 869156200}
@@ -1109,7 +1110,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14.000022, y: -343.28998}
+  m_AnchoredPosition: {x: -14.000022, y: -388.62}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1031851983
@@ -1234,7 +1235,7 @@ RectTransform:
   m_GameObject: {fileID: 1037740666}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.518828, y: 2.518828, z: 2.518828}
+  m_LocalScale: {x: 3.4540687, y: 3.4540687, z: 3.4540687}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1310395948}
@@ -1242,7 +1243,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14.000022, y: -99.149994}
+  m_AnchoredPosition: {x: -14.000022, y: -53.824}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1037740668
@@ -1349,7 +1350,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1233459834}
   - component: {fileID: 1233459833}
-  - component: {fileID: 1233459832}
+  - component: {fileID: 1233459835}
   m_Layer: 0
   m_Name: BG_3
   m_TagString: Untagged
@@ -1357,20 +1358,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1233459832
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1233459831}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e1d61634508a5554c810069ad1cadcc1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BackgroundControlller
-  cam: {fileID: 87688344}
-  parallaxEffect: 1
 --- !u!212 &1233459833
 SpriteRenderer:
   serializedVersion: 3
@@ -1446,6 +1433,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1233459835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1233459831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cff607029c0101d40b6f33930173e9a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MouseParallax
+  amplitude: {x: 0.5, y: 0.25}
+  lissage: 6
+  inverser: 1
 --- !u!1 &1310395947
 GameObject:
   m_ObjectHideFlags: 0
@@ -1811,7 +1813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2042723092}
   - component: {fileID: 2042723091}
-  - component: {fileID: 2042723090}
+  - component: {fileID: 2042723093}
   m_Layer: 0
   m_Name: BG_2
   m_TagString: Untagged
@@ -1819,20 +1821,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2042723090
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2042723089}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e1d61634508a5554c810069ad1cadcc1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BackgroundControlller
-  cam: {fileID: 87688344}
-  parallaxEffect: 0.8
 --- !u!212 &2042723091
 SpriteRenderer:
   serializedVersion: 3
@@ -1901,13 +1889,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2042723089}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 2.57, y: 0, z: 0}
   m_LocalScale: {x: 0.4393886, y: 0.4393886, z: 0.4393886}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &2042723093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2042723089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cff607029c0101d40b6f33930173e9a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MouseParallax
+  amplitude: {x: 0.5, y: 0.25}
+  lissage: 6
+  inverser: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
