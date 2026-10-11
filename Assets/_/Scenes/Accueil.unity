@@ -976,7 +976,6 @@ GameObject:
   m_Component:
   - component: {fileID: 964198768}
   - component: {fileID: 964198767}
-  - component: {fileID: 964198769}
   m_Layer: 0
   m_Name: BG_1
   m_TagString: Untagged
@@ -1053,27 +1052,12 @@ Transform:
   m_GameObject: {fileID: 964198765}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.96, y: 0, z: 0}
-  m_LocalScale: {x: -0.43938854, y: 0.4393886, z: 0.4393886}
+  m_LocalPosition: {x: 0.13, y: -0.02, z: 0}
+  m_LocalScale: {x: -0.40407586, y: 0.40407592, z: 0.40407592}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &964198769
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 964198765}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cff607029c0101d40b6f33930173e9a6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MouseParallax
-  amplitude: {x: 0.5, y: 0.25}
-  lissage: 6
-  inverser: 1
 --- !u!1 &1031851981
 GameObject:
   m_ObjectHideFlags: 0
@@ -1446,7 +1430,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseParallax
   amplitude: {x: 0.5, y: 0.25}
-  lissage: 6
+  lissage: 10
   inverser: 1
 --- !u!1 &1310395947
 GameObject:
@@ -1909,7 +1893,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MouseParallax
   amplitude: {x: 0.5, y: 0.25}
-  lissage: 6
+  lissage: 5
   inverser: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -1920,5 +1904,5 @@ SceneRoots:
   - {fileID: 2024203114}
   - {fileID: 34364026}
   - {fileID: 964198768}
-  - {fileID: 1233459834}
   - {fileID: 2042723092}
+  - {fileID: 1233459834}
