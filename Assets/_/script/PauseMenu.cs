@@ -4,11 +4,11 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-    public GameObject pausePanel;     // darkened background + everything
+    public GameObject pausePanel;     // fond sombre + tout le reste
     public GameObject menuPanel;      // Resume / Controls / Quit
-    public GameObject controlsPanel;  // controls screen
-    public string mainMenuScene = ""; // leave empty to quit the game instead
-    public bool lockCursorInGame = true;
+    public GameObject controlsPanel;  // écran des contrôles
+    public string mainMenuScene = ""; // laisse vide pour fermer le jeu
+    public bool lockCursorInGame = true; // décoche si ton jeu utilise un curseur visible
 
     bool paused;
 
@@ -81,5 +81,16 @@ public class PauseMenu : MonoBehaviour
         EnableAllButtons();
     }
 
-    
+    public void Quit()
+    {
+        Time.timeScale = 1f;
+        if (string.IsNullOrEmpty("Accueil"))
+        {
+            Application.Quit();
+        }
+        else
+        {
+            SceneManager.LoadScene("Accueil");
+        }
+    }
 }
