@@ -20,8 +20,29 @@ MonoBehaviour:
     rid: 629720558805975254
   m_ActivePlatformGuid: 
   m_AdditionalPlatformBuildSettings: []
-  m_OverrideGlobalSceneList: 0
-  m_Scenes: []
+  m_OverrideGlobalSceneList: 1
+  m_Scenes:
+  - m_enabled: 1
+    m_path: Assets/_/Scenes/Accueil.unity
+    m_guid: b112dacc8c9a98f4bbbaa0d821cbd3fc
+  - m_enabled: 1
+    m_path: Assets/_/Scenes/game over_niv_1.unity
+    m_guid: bbc5b2b5e5ea09240a89d97910d74711
+  - m_enabled: 1
+    m_path: Assets/_/Scenes/game over_niv_2.unity
+    m_guid: 3d5c919d5b3a6c74f890564fd19a06ad
+  - m_enabled: 1
+    m_path: Assets/_/Scenes/game over_niv_3.unity
+    m_guid: 14ed54bd331fee84fb6c629504ecf918
+  - m_enabled: 1
+    m_path: Assets/_/Scenes/niveau_1.unity
+    m_guid: b324b040de8049640abc3c1b95d909da
+  - m_enabled: 1
+    m_path: Assets/_/Scenes/niveau_2_grotte.unity
+    m_guid: 57dda0b5e4d358e4fb95ec831e8961fe
+  - m_enabled: 1
+    m_path: Assets/_/Scenes/niveau_3_abysse.unity
+    m_guid: 42bf572b9e22c6248bbf26bdd8151cde
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:

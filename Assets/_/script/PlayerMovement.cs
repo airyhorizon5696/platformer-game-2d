@@ -32,6 +32,8 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
     private bool isGrounded;
+    private PlayerAudio sons;          // Optionnel : si présent, joue les sons
+    private float tempsEnLair = 0f;   // Sert à ne jouer le son d'atterrissage qu'après une vraie chute/saut
     private float horizontalInput;
     private bool facingRight = true;
 
@@ -44,6 +46,7 @@ public class PlayerMovement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        sons = GetComponent<PlayerAudio>();
     }
 
     void Update()
@@ -58,6 +61,17 @@ public class PlayerMovement : MonoBehaviour
 
         // Détection du sol
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+
+        // Son d'atterrissage (seulement si on était vraiment en l'air un petit moment)
+        if (!isGrounded)
+        {
+            tempsEnLair += Time.deltaTime;
+        }
+        else
+        {
+            if (tempsEnLair > 0.25f && sons != null) sons.JouerAtterrissage();
+            tempsEnLair = 0f;
+        }
 
         // Le dash se recharge seulement au contact du sol
         if (isGrounded) dashReady = true;
@@ -114,15 +128,21 @@ public class PlayerMovement : MonoBehaviour
     public bool IsGrounded => isGrounded;
     public bool IsDashing => isDashing;
 
-    public void PerformJump(float force)
+    public void PerformJump(float force, bool sautAerien = false)
     {
         rb.linearVelocity = new Vector2(rb.linearVelocity.x, force);
         if (anim != null) anim.SetTrigger("Jump");
+        if (sons != null)
+        {
+            if (sautAerien) sons.JouerDoubleSaut();
+            else sons.JouerSaut();
+        }
     }
 
     void StartDash()
     {
         isDashing = true;
+        if (sons != null) sons.JouerDash();
         dashReady = false;
         dashCooldownTimer = dashCooldown;
         dashTimer = dashDuration;

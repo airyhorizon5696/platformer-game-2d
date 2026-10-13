@@ -14,11 +14,13 @@ public class PlayerCombat : MonoBehaviour
     public float attackCooldown = 0.35f; // Temps minimum entre deux attaques (évite le spam)
 
     private Animator anim;
+    private PlayerAudio sons;
     private float cooldownTimer = 0f;
 
     void Awake()
     {
         anim = GetComponent<Animator>();
+        sons = GetComponent<PlayerAudio>();
     }
 
     void Update()
@@ -31,27 +33,27 @@ public class PlayerCombat : MonoBehaviour
 
         if (kb[attack1Key].wasPressedThisFrame)
         {
-            TriggerAttack("Attack1");
+            TriggerAttack("Attack1", 1);
         }
         else if (kb[attack2Key].wasPressedThisFrame)
         {
-            TriggerAttack("Attack2");
+            TriggerAttack("Attack2", 2);
         }
         else if (kb[attack3Key].wasPressedThisFrame)
         {
-            TriggerAttack("Attack3");
+            TriggerAttack("Attack3", 3);
         }
     }
 
-    void TriggerAttack(string triggerName)
+    void TriggerAttack(string triggerName, int numero)
     {
         cooldownTimer = attackCooldown;
+        if (sons != null) sons.JouerAttaque(numero);
         if (anim != null)
         {
             anim.SetTrigger(triggerName);
         }
 
-        // C'est ICI que tu ajouteras plus tard la détection des ennemis touchés
-        // (par exemple avec Physics2D.OverlapCircle sur un point devant le joueur)
+
     }
 }

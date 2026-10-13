@@ -1,11 +1,15 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-// Appelle DebloquerDoubleSaut() depuis un Invoke Event du Collider Event System
+
+// À ajouter sur le même GameObject que PlayerMovement.
+// Le double saut est VERROUILLÉ par défaut (débloqué = false).
+
+// (sur le trigger de ramassage de l'objet) pour l'activer.
 [RequireComponent(typeof(PlayerMovement))]
 public class DoubleJumpAbility : MonoBehaviour
 {
     [Header("Réglages du double saut")]
-    public float extraJumpForce = 6f; 
+    public float extraJumpForce = 9f; // Un peu plus faible que le saut normal, c'est souvent plus satisfaisant
 
     [Header("État (lecture seule, juste pour debug)")]
     public bool debloque = false;
@@ -36,14 +40,23 @@ public class DoubleJumpAbility : MonoBehaviour
 
         if (jumpPressed && !extraJumpUtilise && !playerMovement.IsDashing)
         {
-            playerMovement.PerformJump(extraJumpForce);
+            playerMovement.PerformJump(extraJumpForce, true); // true = saut aérien (son différent)
             extraJumpUtilise = true;
         }
     }
 
-    // Méthode publique à appeler depuis un Invoke Event (CES) quand le joueur ramasse l'objet
-    public void DebloquerDoubleSaut()
+    // Méthodes publiques à appeler depuis un Invoke Event (CES).
+    // "debloque" est une variable publique : tu peux aussi la lire/l'afficher ailleurs si besoin,
+
+    public void ActiverDoubleSaut()
     {
         debloque = true;
+        if (GameManager.Instance != null) GameManager.Instance.doubleSautDebloque = true;
+    }
+
+    public void DesactiverDoubleSaut()
+    {
+        debloque = false;
+        if (GameManager.Instance != null) GameManager.Instance.doubleSautDebloque = false;
     }
 }
