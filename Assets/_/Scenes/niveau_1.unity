@@ -1112,7 +1112,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -2560, y: -1440}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &226614254
 MonoBehaviour:
@@ -1127,7 +1127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.5019608}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.5882353}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -4597,7 +4597,6 @@ GameObject:
   m_Component:
   - component: {fileID: 765464420}
   - component: {fileID: 765464419}
-  - component: {fileID: 765464418}
   - component: {fileID: 765464417}
   - component: {fileID: 765464415}
   m_Layer: 0
@@ -4683,14 +4682,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!81 &765464418
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 765464414}
-  m_Enabled: 1
 --- !u!20 &765464419
 Camera:
   m_ObjectHideFlags: 0
@@ -6380,6 +6371,7 @@ GameObject:
   - component: {fileID: 1046986870}
   - component: {fileID: 1046986869}
   - component: {fileID: 1046986868}
+  - component: {fileID: 1046986871}
   m_Layer: 5
   m_Name: ResumeButton
   m_TagString: Untagged
@@ -6429,8 +6421,8 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_HighlightedColor: {r: 0.6320754, g: 0.6320754, b: 0.6320754, a: 1}
+    m_PressedColor: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -6501,6 +6493,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1046986866}
   m_CullTransparentMesh: 1
+--- !u!114 &1046986871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046986866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44057c83690931641b945385edb9273d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ButtonSounds
+  hoverSound: {fileID: 8300000, guid: 5d1759d22e4d3d54eb12fe5585388c02, type: 3}
+  selectSound: {fileID: 8300000, guid: 5d1759d22e4d3d54eb12fe5585388c02, type: 3}
+  clickSound: {fileID: 0}
+  volume: 1
 --- !u!1001 &1055326376
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22982,6 +22990,7 @@ GameObject:
   - component: {fileID: 1217498377}
   - component: {fileID: 1217498376}
   - component: {fileID: 1217498375}
+  - component: {fileID: 1217498378}
   m_Layer: 5
   m_Name: QuitButton
   m_TagString: Untagged
@@ -23030,9 +23039,9 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_NormalColor: {r: 1, g: 0.5235849, b: 0.5235849, a: 1}
+    m_HighlightedColor: {r: 0.990566, g: 0.3224012, b: 0.3224012, a: 1}
+    m_PressedColor: {r: 0.8301887, g: 0.16838734, b: 0.16838734, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -23053,8 +23062,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 780374563}
-        m_TargetAssemblyTypeName: PauseMenu, Assembly-CSharp
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: QuitGame, Assembly-CSharp
         m_MethodName: Quit
         m_Mode: 1
         m_Arguments:
@@ -23103,6 +23112,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1217498373}
   m_CullTransparentMesh: 1
+--- !u!114 &1217498378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1217498373}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44057c83690931641b945385edb9273d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ButtonSounds
+  hoverSound: {fileID: 8300000, guid: 5d1759d22e4d3d54eb12fe5585388c02, type: 3}
+  selectSound: {fileID: 8300000, guid: 5d1759d22e4d3d54eb12fe5585388c02, type: 3}
+  clickSound: {fileID: 0}
+  volume: 1
 --- !u!1 &1240287636
 GameObject:
   m_ObjectHideFlags: 0
@@ -23115,6 +23140,7 @@ GameObject:
   - component: {fileID: 1240287640}
   - component: {fileID: 1240287639}
   - component: {fileID: 1240287638}
+  - component: {fileID: 1240287641}
   m_Layer: 5
   m_Name: ControlsButton
   m_TagString: Untagged
@@ -23164,8 +23190,8 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_HighlightedColor: {r: 0.8018868, g: 0.8018868, b: 0.8018868, a: 1}
+    m_PressedColor: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -23236,6 +23262,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1240287636}
   m_CullTransparentMesh: 1
+--- !u!114 &1240287641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1240287636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44057c83690931641b945385edb9273d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ButtonSounds
+  hoverSound: {fileID: 8300000, guid: 5d1759d22e4d3d54eb12fe5585388c02, type: 3}
+  selectSound: {fileID: 8300000, guid: 5d1759d22e4d3d54eb12fe5585388c02, type: 3}
+  clickSound: {fileID: 0}
+  volume: 1
 --- !u!1 &1278371023
 GameObject:
   m_ObjectHideFlags: 0
@@ -23291,7 +23333,7 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -0.40057823, y: -0.013325609}
+  - {x: -0.379815, y: -0.011844713}
   - {x: 0.3958092, y: -0.012796879}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
@@ -23640,13 +23682,13 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: e9fb056a77f7f144da5cb42d8037c497, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.572
+  m_Volume: 0.401
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 256
   DopplerLevel: 1
   MinDistance: 0.8128743
   MaxDistance: 3.246961
@@ -25075,7 +25117,7 @@ RectTransform:
   m_GameObject: {fileID: 1684982165}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 4.486639, y: 4.486639, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2022533703}
@@ -25470,7 +25512,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
+  m_VerticalAlignment: 1024
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_characterHorizontalScale: 1
@@ -27565,8 +27607,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 22.5
+  m_fontSizeBase: 22.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
