@@ -4893,7 +4893,7 @@ MonoBehaviour:
   menuPanel: {fileID: 601912664}
   controlsPanel: {fileID: 1684982165}
   mainMenuScene: 
-  lockCursorInGame: 1
+  lockCursorInGame: 0
 --- !u!1001 &819272760
 PrefabInstance:
   m_ObjectHideFlags: 0
