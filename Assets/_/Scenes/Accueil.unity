@@ -175,7 +175,6 @@ GameObject:
   - component: {fileID: 87688346}
   - component: {fileID: 87688345}
   - component: {fileID: 87688348}
-  - component: {fileID: 87688349}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -301,20 +300,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!114 &87688349
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 87688344}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e1d61634508a5554c810069ad1cadcc1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BackgroundControlller
-  cam: {fileID: 0}
-  parallaxEffect: 0
 --- !u!1 &204180863
 GameObject:
   m_ObjectHideFlags: 0
