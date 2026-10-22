@@ -47,6 +47,9 @@ TagManager:
   - name: 2-closetree
     uniqueID: 3249608129
     locked: 0
+  - name: Brouillard_Arriere
+    uniqueID: 1178943141
+    locked: 0
   - name: 3-vegetation and stuff
     uniqueID: 4110882797
     locked: 0
@@ -58,6 +61,9 @@ TagManager:
     locked: 0
   - name: foreground
     uniqueID: 441285021
+    locked: 0
+  - name: Brouillard_Avant
+    uniqueID: 3692588723
     locked: 0
   - name: UI
     uniqueID: 913065245
