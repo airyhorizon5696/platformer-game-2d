@@ -1595,7 +1595,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Tutoriel
+  m_text: Touches
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0c99ec3c93a78d6469e082646f102003, type: 2}
   m_sharedMaterial: {fileID: 2831397875001311101, guid: 0c99ec3c93a78d6469e082646f102003, type: 2}
@@ -1622,8 +1622,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21
-  m_fontSizeBase: 21
+  m_fontSize: 23.9
+  m_fontSizeBase: 23.9
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 0

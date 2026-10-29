@@ -60,7 +60,9 @@ public class PlayerMovement : MonoBehaviour
         if (kb[moveRightKey].isPressed) horizontalInput += 1f;
 
         // Détection du sol
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        Collider2D solTouche = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        isGrounded = solTouche != null;
+        SolActuel = solTouche; // PlayerAudio s'en sert pour choisir le son de pas selon le Tag du sol
 
         // Son d'atterrissage (seulement si on était vraiment en l'air un petit moment)
         if (!isGrounded)
@@ -126,6 +128,7 @@ public class PlayerMovement : MonoBehaviour
 
     // --- API publique utilisable par d'autres scripts (ex: DoubleJumpAbility) ---
     public bool IsGrounded => isGrounded;
+    public Collider2D SolActuel { get; private set; } // L'objet sur lequel le joueur se tient (null en l'air)
     public bool IsDashing => isDashing;
 
     public void PerformJump(float force, bool sautAerien = false)

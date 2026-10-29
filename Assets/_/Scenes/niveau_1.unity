@@ -2825,19 +2825,34 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7e3ca6f5734bb445a9c7e3dca631d9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAudio
+  volumeGeneral: 1
+  volumeMouvements: 1
+  volumePas: 1
+  volumeCombat: 1
+  volumeAutres: 1
+  muet: 0
+  fonduEntree: 0.01
+  fonduSortie: 0.05
+  vitesseChangementVolume: 4
+  reduirePasQuandActions: 1
+  facteurReductionPas: 0.4
+  dureeReduction: 0.25
   saut:
     clips: []
     volume: 0.5
     variationHauteur: 0.08
+    variationVolume: 0.1
   doubleSaut:
     clips: []
     volume: 0.5
     variationHauteur: 0.08
+    variationVolume: 0.1
   atterrissage:
     clips:
     - {fileID: 0}
     volume: 0.5
     variationHauteur: 0.08
+    variationVolume: 0.1
   dash:
     clips:
     - {fileID: 8300000, guid: 91ac2486042ed5f46ac71d160c644bb5, type: 3}
@@ -2845,32 +2860,65 @@ MonoBehaviour:
     - {fileID: 8300000, guid: 7b4cc0072d925f648ab5681c8cdb90b9, type: 3}
     volume: 0.355
     variationHauteur: 0.339
+    variationVolume: 0.1
   attaque1:
     clips:
     - {fileID: 8300000, guid: 7b4cc0072d925f648ab5681c8cdb90b9, type: 3}
     volume: 0.443
     variationHauteur: 0.262
+    variationVolume: 0.1
   attaque2:
     clips: []
     volume: 0.5
     variationHauteur: 0.08
+    variationVolume: 0.1
   attaque3:
     clips: []
     volume: 0.5
     variationHauteur: 0.08
+    variationVolume: 0.1
   degats:
     clips: []
     volume: 0.5
     variationHauteur: 0.08
+    variationVolume: 0.1
   mort:
     clips: []
     volume: 0.5
     variationHauteur: 0.08
+    variationVolume: 0.1
   ramassage:
     clips: []
     volume: 0.5
     variationHauteur: 0.08
-  groupeMixer: {fileID: 0}
+    variationVolume: 0.1
+  pasAutomatiques: 1
+  intervallePas: 0.35
+  variationIntervallePas: 0.037
+  seuilVitesse: 0.5
+  pasParDefaut:
+    clips:
+    - {fileID: 8300000, guid: babffe21d61bda149bfc7d4ca0def9d3, type: 3}
+    - {fileID: 8300000, guid: d154a1db51e39fa4587b1dfab9bed997, type: 3}
+    - {fileID: 8300000, guid: 1a5f1b622cc10674e852c0c30fa8789a, type: 3}
+    - {fileID: 8300000, guid: d19e4d8232fa91b4cb95aeb57414393a, type: 3}
+    - {fileID: 8300000, guid: e4eedfd1262cdd44e912ef2ea5cb9947, type: 3}
+    volume: 0.247
+    variationHauteur: 0.045
+    variationVolume: 0.049
+  surfaces:
+  - nom: 
+    tagDuSol: 
+    pas:
+      clips: []
+      volume: 0.086
+      variationHauteur: 0.092
+      variationVolume: 0.1
+    atterrissage:
+      clips: []
+      volume: 0
+      variationHauteur: 0
+      variationVolume: 0.1
 --- !u!81 &433458183
 AudioListener:
   m_ObjectHideFlags: 0
@@ -39927,7 +39975,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: e9fb056a77f7f144da5cb42d8037c497, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.401
+  m_Volume: 0.112
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -39986,7 +40034,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 0.9388889
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -41206,7 +41254,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 6418180475301049370, guid: befb15d54b110f6449c09f856fa03cfa, type: 2}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.445
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -41265,7 +41313,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 0.9388889
       inSlope: 0
       outSlope: 0
       tangentMode: 0
