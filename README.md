@@ -12,3 +12,10 @@ https://fonts.google.com/selection?preview.script=Latn&query=IM+Fell+English+SC
 https://kenney.nl/assets/impact-sounds
 https://pixabay.com/users/oxidvideos-37598254/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=409364%22%3EAlex%3C/a%3E
 https://ipixl.itch.io/pixel-art-16x16-nature-tiles
+https://maaot.itch.io/2d-browncave-assets
+https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
+Arcade Button Press FX - Free other FX Sample | Sample Focus
+Arcade Zing FX - Free other FX Sample | Sample Focus
+Game Dash Whoosh Sound Effect  dash sound effect cc0
+https://pixabay.com/sound-effects/film-special-effects-cave-wind-10-76283/
+https://jumpbutton.itch.io/girlknightasset
