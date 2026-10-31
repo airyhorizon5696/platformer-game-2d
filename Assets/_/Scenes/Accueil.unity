@@ -507,7 +507,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sous la Myc\xE8le "
+  m_text: "Sous la \nmyc\xE8le "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0c99ec3c93a78d6469e082646f102003, type: 2}
   m_sharedMaterial: {fileID: 2831397875001311101, guid: 0c99ec3c93a78d6469e082646f102003, type: 2}
