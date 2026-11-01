@@ -27,3 +27,4 @@
 - https://ateliermagicae.itch.io/pixel-ui-sound-effects
 - https://kenney.nl/assets/fantasy-ui-borders
 - https://beamedeighth.itch.io/simplekeys-animated-pixel-keyboard-keys
+- https://datagoblin.itch.io/monogram
