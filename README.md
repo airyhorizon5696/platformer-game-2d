@@ -26,3 +26,4 @@
 - https://pixabay.com/sound-effects/film-special-effects-level-passed-143039/
 - https://ateliermagicae.itch.io/pixel-ui-sound-effects
 - https://kenney.nl/assets/fantasy-ui-borders
+- https://beamedeighth.itch.io/simplekeys-animated-pixel-keyboard-keys
