@@ -870,6 +870,72 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Terrain_and_Props_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 400
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a307fd1939c2624eb8adfd4690ccd08
+      internalID: 1950483549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_and_Props_32
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 399
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d830b1d746c63134096eb47581c90067
+      internalID: -358430787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_and_Props_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 399
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2e912a6f63b884bb7592eb9b4c152f
+      internalID: -575181070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -909,6 +975,9 @@ TextureImporter:
       Terrain_and_Props_29: 346749261
       Terrain_and_Props_3: 3068277905654777829
       Terrain_and_Props_30: -209658687
+      Terrain_and_Props_31: 1950483549
+      Terrain_and_Props_32: -358430787
+      Terrain_and_Props_33: -575181070
       Terrain_and_Props_4: -7662601631111615731
       Terrain_and_Props_5: 777567994236811104
       Terrain_and_Props_6: 5192726240851050897

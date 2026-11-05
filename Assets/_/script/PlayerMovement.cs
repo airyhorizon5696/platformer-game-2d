@@ -12,6 +12,8 @@ public class PlayerMovement : MonoBehaviour
     public Key jumpKey2 = Key.Space;
     public Key dashKey = Key.LeftShift;
 
+    public ParticleSystem dust;
+
     [Header("Mouvement")]
     public float moveSpeed = 6f;
 
@@ -62,16 +64,23 @@ public class PlayerMovement : MonoBehaviour
         // Détection du sol
         Collider2D solTouche = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
         isGrounded = solTouche != null;
-        SolActuel = solTouche; // PlayerAudio s'en sert pour choisir le son de pas selon le Tag du sol
+        SolActuel = solTouche;
 
-        // Son d'atterrissage (seulement si on était vraiment en l'air un petit moment)
+        // Son et particules d'atterrissage
         if (!isGrounded)
         {
             tempsEnLair += Time.deltaTime;
         }
         else
         {
-            if (tempsEnLair > 0.25f && sons != null) sons.JouerAtterrissage();
+            if (tempsEnLair > 0.25f)
+            {
+                if (sons != null)
+                    sons.JouerAtterrissage();
+
+                dust.Play();
+            }
+
             tempsEnLair = 0f;
         }
 
@@ -157,13 +166,24 @@ public class PlayerMovement : MonoBehaviour
         isDashing = false;
         rb.gravityScale = 1f;
     }
+    void PlayDust()
+    {
+        if (dust == null) return;
+
+        dust.Stop(true, ParticleSystemStopBehavior.StopEmittingAndClear);
+        dust.Play();
+    }
 
     void Flip()
     {
         facingRight = !facingRight;
+
         Vector3 scale = transform.localScale;
         scale.x *= -1;
         transform.localScale = scale;
+
+        if (isGrounded)
+            PlayDust();
     }
 
     void OnDrawGizmosSelected()
