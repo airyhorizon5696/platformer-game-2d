@@ -30,6 +30,11 @@
 - https://datagoblin.itch.io/monogram
 
 
+
+
+https://www.youtube.com/watch?v=ERXFU4JRPNI&t=11s Trail effect and jump
+
+
 ## Crédits et assets
 
 ### Graphismes (tilesets, sprites, interface)
