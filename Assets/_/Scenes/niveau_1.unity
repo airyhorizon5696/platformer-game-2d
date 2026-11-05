@@ -976,7 +976,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.InputCondition
   Operator: 0
   source: 0
-  key: 19
+  key: 26
   actionReference: {fileID: 0}
   triggerOn: 0
 --- !u!114 &142100326
@@ -8081,19 +8081,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 685433705554519169, guid: 1d70f6daaadb94b568a178e5b96eca50, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.68080413
+      value: 0.8367023
       objectReference: {fileID: 0}
     - target: {fileID: 685433705554519169, guid: 1d70f6daaadb94b568a178e5b96eca50, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.68080413
+      value: 0.8367023
       objectReference: {fileID: 0}
     - target: {fileID: 685433705554519169, guid: 1d70f6daaadb94b568a178e5b96eca50, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.68080413
+      value: 0.8367023
       objectReference: {fileID: 0}
     - target: {fileID: 685433705554519169, guid: 1d70f6daaadb94b568a178e5b96eca50, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.004521944
+      value: -0.075
       objectReference: {fileID: 0}
     - target: {fileID: 685433705554519169, guid: 1d70f6daaadb94b568a178e5b96eca50, type: 3}
       propertyPath: m_LocalPosition.y
@@ -8278,7 +8278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 872c4943c5959b443b1bad0f1ae9cb88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCombat
-  attack1Key: 19
+  attack1Key: 26
   attack2Key: 32
   attack3Key: 20
   attackCooldown: 0.15
@@ -40398,25 +40398,25 @@ Tilemap:
     m_Data: {fileID: 21300306, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   - serializedVersion: 2
     m_RefCount: 0
-    m_Data: {fileID: 21300052, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
+    m_Data: {fileID: 21300126, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   - serializedVersion: 2
     m_RefCount: 0
     m_Data: {fileID: 21300050, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   - serializedVersion: 2
     m_RefCount: 0
-    m_Data: {fileID: 21300048, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
+    m_Data: {fileID: 21300066, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   - serializedVersion: 2
     m_RefCount: 0
-    m_Data: {fileID: 21300412, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
+    m_Data: {fileID: 21300128, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   - serializedVersion: 2
     m_RefCount: 0
-    m_Data: {fileID: 21300988, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
+    m_Data: {fileID: 21300106, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   - serializedVersion: 2
     m_RefCount: 0
-    m_Data: {fileID: 21301062, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
+    m_Data: {fileID: 21300430, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   - serializedVersion: 2
     m_RefCount: 0
-    m_Data: {fileID: 21300054, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
+    m_Data: {fileID: 21300092, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   - serializedVersion: 2
     m_RefCount: 1
     m_Data: {fileID: 21301028, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
@@ -45639,7 +45639,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 6839cb8c34d012d4cbc1a4d7bb8d3944, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.042
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -47612,15 +47612,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 685433705554519169, guid: 1d70f6daaadb94b568a178e5b96eca50, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.16282907
+      value: 0.11367763
       objectReference: {fileID: 0}
     - target: {fileID: 685433705554519169, guid: 1d70f6daaadb94b568a178e5b96eca50, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.16282907
+      value: 0.11367763
       objectReference: {fileID: 0}
     - target: {fileID: 685433705554519169, guid: 1d70f6daaadb94b568a178e5b96eca50, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.16282907
+      value: 0.11367763
       objectReference: {fileID: 0}
     - target: {fileID: 685433705554519169, guid: 1d70f6daaadb94b568a178e5b96eca50, type: 3}
       propertyPath: m_LocalPosition.x
@@ -50650,7 +50650,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.InputCondition
   Operator: 0
   source: 0
-  key: 19
+  key: 26
   actionReference: {fileID: 0}
   triggerOn: 0
 --- !u!61 &1897660438
