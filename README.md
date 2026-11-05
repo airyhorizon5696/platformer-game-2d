@@ -78,29 +78,11 @@
 
 ### Polices
 
-- **Asset :** IM Fell English SC
-  **Type :** Police
-  **Auteur :** Igino Marini
-  **Source :** https://fonts.google.com/specimen/IM+Fell+English+SC
-  **Licence :** SIL Open Font License 1.1 (OFL 1.1)
-
-- **Asset :** Minecraft
-  **Type :** Police
-  **Auteur :** Craftron Gaming
-  **Source :** https://www.dafont.com/minecraft.font
-  **Licence :** « 100% Free » selon DaFont (aucune licence précise indiquée)
-
 - **Asset :** BoldPixels Font
   **Type :** Police
   **Auteur :** Yūki (@YukiPixels)
   **Source :** https://yukipixels.itch.io/boldpixels
   **Licence :** Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-- **Asset :** monogram
-  **Type :** Police
-  **Auteur :** datagoblin
-  **Source :** https://datagoblin.itch.io/monogram
-  **Licence :** Creative Commons Zero v1.0 Universal (CC0 1.0)
 
 ### Sons et musique
 
