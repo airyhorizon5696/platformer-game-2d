@@ -84,6 +84,12 @@
   - **Source :** https://yukipixels.itch.io/boldpixels
   - **Licence :** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
+- **Asset :** monogram
+  - **Type :** Police
+  - **Auteur :** datagoblin
+  - **Source :** https://datagoblin.itch.io/monogram
+  - **Licence :** CC0
+
 ### Sons et musique
 
 - **Asset :** Impact Sounds
