@@ -34,8 +34,8 @@
 
 ### Graphismes (tilesets, sprites, interface)
 
-- **Asset :** À COMPLÉTER (le titre exact n'apparaît pas dans la page ; le fichier téléchargé s'appelle « Fantasy Swamp Forest »)
-  **Type :** Tileset
+- **Asset :** Fantasy Swamp Forest
+  **Type :** Tileset et sprite
   **Auteur :** The Flavare
   **Source :** https://theflavare.itch.io/forest-nature-fantasy-tileset
   **Licence :** Licence personnalisée de l'auteur (version gratuite : crédit obligatoire, modification, revente et usage pour l'IA interdits)
@@ -50,22 +50,22 @@
   **Type :** Pack de sprites (décor de grotte)
   **Auteur :** Maaot
   **Source :** https://maaot.itch.io/2d-browncave-assets
-  **Licence :** À COMPLÉTER (aucune licence formelle sur la page)
+  **Licence :** Pas confirmer directement sur la page mais dans les commentaires il est dit que c'est usage perso et commerciale
 
-- **Asset :** À COMPLÉTER (le titre n'apparaît pas dans la page ; le fichier s'appelle « Legacy-Fantasy - High Forest 2.0 »)
+- **Asset :** Legacy-Fantasy
   **Type :** Pack de sprites (tileset, personnage, monstres)
   **Auteur :** Anokolisa
   **Source :** https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16
   **Licence :** Creative Commons Zero v1.0 Universal (CC0 1.0)
 
-- **Asset :** À COMPLÉTER (le titre n'apparaît pas dans la page ; l'adresse indique « girlknightasset »)
+- **Asset :** Girl Knight Character Asset
   **Type :** Sprites de personnage animé
   **Auteur :** JumpButton
   **Source :** https://jumpbutton.itch.io/girlknightasset
   **Licence :** Licence personnalisée de l'auteur (crédit requis en usage commercial, revente et usage pour l'IA/NFT interdits)
 
 - **Asset :** Fantasy UI Borders
-  **Type :** Éléments d'interface (9-slice)
+  **Type :** Éléments d'interface (9-slice) (UI)
   **Auteur :** Kenney (Assets)
   **Source :** https://kenney-assets.itch.io/fantasy-ui-borders
   **Licence :** Creative Commons Zero v1.0 Universal (CC0 1.0)
