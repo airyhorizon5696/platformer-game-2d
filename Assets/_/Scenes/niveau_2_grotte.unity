@@ -1109,7 +1109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 872c4943c5959b443b1bad0f1ae9cb88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCombat
-  attack1Key: 26
+  attack1Key: 24
   attack2Key: 32
   attack3Key: 20
   attackCooldown: 0.15
@@ -3524,7 +3524,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.InputCondition
   Operator: 0
   source: 0
-  key: 26
+  key: 24
   actionReference: {fileID: 0}
   triggerOn: 0
 --- !u!61 &437077387
@@ -87843,7 +87843,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: ColliderEventSystem::ColliderEventSystem.InputCondition
   Operator: 0
   source: 0
-  key: 26
+  key: 24
   actionReference: {fileID: 0}
   triggerOn: 0
 --- !u!61 &1245666811
