@@ -52213,7 +52213,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "a-d : d\xE9placements gauche droite\nE : attaquer\nw ou ESPACE : saut\nSHIFT
+  m_text: "a-d : d\xE9placements gauche droite\nJ : attaquer\nw ou ESPACE : saut\nSHIFT
     : dash par en avant \n "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 437b9837b737d6d4c9749b58698233c1, type: 2}
