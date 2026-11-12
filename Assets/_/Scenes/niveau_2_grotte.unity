@@ -929,7 +929,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.35, y: 0.62}
+    oldSize: {x: 1, y: 0.64}
     newSize: {x: 0.35, y: 0.62}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1209,10 +1209,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c83f3dcca4da2a428e85f557d6ed820, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TorchLight
-  rayonSansTorche: 5
+  rayonSansTorche: 8
   rayonAvecTorche: 6
   vitesseTransition: 1.5
-  vitesseVacillement: 7.07
+  vitesseVacillement: 10
   amplitudeRayon: 0.25
   amplitudeIntensite: 0.15
   intensiteDeBase: 1.2
@@ -83955,7 +83955,7 @@ Tilemap:
     m_Data: {fileID: 21300032, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   - serializedVersion: 2
     m_RefCount: 0
-    m_Data: {fileID: 21300522, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
+    m_Data: {fileID: 21300460, guid: 5edb3a5e57537a162fc6042c18ada341, type: 3}
   m_TileMatrixArray:
   - serializedVersion: 2
     m_RefCount: 7212
@@ -89544,8 +89544,8 @@ Transform:
   m_GameObject: {fileID: 1367234276}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: -1.99, y: 0.86, z: 0}
-  m_LocalScale: {x: 0.83792657, y: 0.83792657, z: 0.83792657}
+  m_LocalPosition: {x: -1.99, y: 0.81, z: 0}
+  m_LocalScale: {x: 1.2860837, y: 1.2860837, z: 1.2860837}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
