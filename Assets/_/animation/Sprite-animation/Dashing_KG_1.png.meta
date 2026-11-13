@@ -138,12 +138,12 @@ TextureImporter:
       name: Dashing_KG_1_0
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 0
-        width: 52
-        height: 55
+        width: 100
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -160,12 +160,12 @@ TextureImporter:
       name: Dashing_KG_1_1
       rect:
         serializedVersion: 2
-        x: 119
+        x: 100
         y: 0
-        width: 51
-        height: 54
+        width: 100
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -182,12 +182,12 @@ TextureImporter:
       name: Dashing_KG_1_2
       rect:
         serializedVersion: 2
-        x: 205
+        x: 200
         y: 0
-        width: 61
-        height: 59
+        width: 100
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: Dashing_KG_1_3
       rect:
         serializedVersion: 2
-        x: 309
+        x: 300
         y: 0
-        width: 61
-        height: 57
+        width: 100
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: aa3dede22c560654789855dc8253eb83
     internalID: 0
     vertices: []
     indices: 

@@ -144,12 +144,12 @@ TextureImporter:
       name: Jump_KG_1_0
       rect:
         serializedVersion: 2
-        x: 30
+        x: 0
         y: 0
-        width: 38
-        height: 60
+        width: 100
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -166,12 +166,12 @@ TextureImporter:
       name: Jump_KG_1_1
       rect:
         serializedVersion: 2
-        x: 130
+        x: 100
         y: 0
-        width: 39
+        width: 100
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -188,12 +188,12 @@ TextureImporter:
       name: Jump_KG_1_2
       rect:
         serializedVersion: 2
-        x: 231
+        x: 200
         y: 0
-        width: 38
+        width: 100
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -210,12 +210,12 @@ TextureImporter:
       name: Jump_KG_1_3
       rect:
         serializedVersion: 2
-        x: 331
+        x: 300
         y: 0
-        width: 38
+        width: 100
         height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -232,12 +232,12 @@ TextureImporter:
       name: Jump_KG_1_4
       rect:
         serializedVersion: 2
-        x: 427
-        y: 2
-        width: 39
-        height: 62
+        x: 400
+        y: 0
+        width: 100
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -254,12 +254,12 @@ TextureImporter:
       name: Jump_KG_1_5
       rect:
         serializedVersion: 2
-        x: 529
-        y: 1
-        width: 37
-        height: 63
+        x: 500
+        y: 0
+        width: 100
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -276,7 +276,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7a3d1ada32b0a764fbc05990cda13b70
     internalID: 0
     vertices: []
     indices: 
@@ -286,6 +286,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      '#': 4459964307562934422
       Jump_KG_1_0: -291616837440145906
       Jump_KG_1_1: 5306549321057327199
       Jump_KG_1_2: 2470509693834024690
