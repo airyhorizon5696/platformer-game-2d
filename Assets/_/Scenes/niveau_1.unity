@@ -7538,12 +7538,12 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 0, b: 0, a: 1}
-        key1: {r: 0.109618425, g: 1, b: 0, a: 1}
-        key2: {r: 1, g: 0.9565653, b: 0, a: 0}
-        key3: {r: 0.88878334, g: 0, b: 1, a: 0}
-        key4: {r: 0, g: 0.15289438, b: 1, a: 0}
-        key5: {r: 1, g: 1, b: 1, a: 0}
+        key0: {r: 0.6415094, g: 0, b: 0, a: 1}
+        key1: {r: 0.056973696, g: 0.5188679, b: 0, a: 1}
+        key2: {r: 0.5566038, g: 0.5325935, b: 0, a: 0}
+        key3: {r: 0.7090765, g: 0.18609823, b: 0.7735849, a: 0}
+        key4: {r: 0.23529413, g: 0.23529413, b: 0.23529413, a: 0}
+        key5: {r: 0, g: 0.15289438, b: 1, a: 0}
         key6: {r: 0, g: 0, b: 0, a: 0}
         key7: {r: 0, g: 0, b: 0, a: 0}
         ctime0: 11951
@@ -13184,7 +13184,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.35, y: 0.62}
+    oldSize: {x: 1, y: 0.64}
     newSize: {x: 0.35, y: 0.62}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
