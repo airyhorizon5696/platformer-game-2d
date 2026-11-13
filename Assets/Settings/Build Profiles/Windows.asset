@@ -26,6 +26,9 @@ MonoBehaviour:
     m_path: Assets/_/Scenes/Accueil.unity
     m_guid: b112dacc8c9a98f4bbbaa0d821cbd3fc
   - m_enabled: 1
+    m_path: Assets/_/Scenes/Credit.unity
+    m_guid: 5fa55ce330476124a898bec0f60fb796
+  - m_enabled: 1
     m_path: Assets/_/Scenes/game over_niv_1.unity
     m_guid: bbc5b2b5e5ea09240a89d97910d74711
   - m_enabled: 1
@@ -43,6 +46,9 @@ MonoBehaviour:
   - m_enabled: 1
     m_path: Assets/_/Scenes/niveau_3_abysse.unity
     m_guid: 42bf572b9e22c6248bbf26bdd8151cde
+  - m_enabled: 1
+    m_path: Assets/_/Scenes/Victoire.unity
+    m_guid: 3b089c1a3246bb44cafa1ec593c450aa
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:

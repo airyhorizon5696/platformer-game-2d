@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/_/Scenes/Accueil.unity
     guid: b112dacc8c9a98f4bbbaa0d821cbd3fc
   - enabled: 1
-    path: Assets/_/Scenes/Tuto.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/_/Scenes/Credit.unity
+    guid: 5fa55ce330476124a898bec0f60fb796
   - enabled: 1
     path: Assets/_/Scenes/game over_niv_1.unity
     guid: bbc5b2b5e5ea09240a89d97910d74711
@@ -29,5 +29,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_/Scenes/niveau_3_abysse.unity
     guid: 42bf572b9e22c6248bbf26bdd8151cde
+  - enabled: 1
+    path: Assets/_/Scenes/Victoire.unity
+    guid: 3b089c1a3246bb44cafa1ec593c450aa
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
