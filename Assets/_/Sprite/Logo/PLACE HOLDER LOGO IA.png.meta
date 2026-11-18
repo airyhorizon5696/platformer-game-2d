@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: fdde73f1564d991438fb5144863b6a54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 154420708915204747
+    second: "Logo pixel art Sous la Myc\xE8le_0"
+  - first:
+      213: 4535724573213318167
+    second: "Logo pixel art Sous la Myc\xE8le_1"
+  - first:
+      213: 1377355159794589898
+    second: "Logo pixel art Sous la Myc\xE8le_2"
+  - first:
+      213: -5009816023450660234
+    second: "Logo pixel art Sous la Myc\xE8le_3"
+  - first:
+      213: -850027460186014632
+    second: "Logo pixel art Sous la Myc\xE8le_4"
+  - first:
+      213: -5652238058015491000
+    second: "Logo pixel art Sous la Myc\xE8le_5"
+  - first:
+      213: 3238345742236155988
+    second: "Logo pixel art Sous la Myc\xE8le_6"
+  - first:
+      213: 3155962586791300121
+    second: "Logo pixel art Sous la Myc\xE8le_7"
+  - first:
+      213: 6940830773542499387
+    second: "Logo pixel art Sous la Myc\xE8le_8"
+  - first:
+      213: -4495906640065484374
+    second: "Logo pixel art Sous la Myc\xE8le_9"
+  - first:
+      213: -2950826457391931174
+    second: "Logo pixel art Sous la Myc\xE8le_10"
+  - first:
+      213: 6985549974525723133
+    second: "Logo pixel art Sous la Myc\xE8le_11"
+  - first:
+      213: 4120174378574236137
+    second: "Logo pixel art Sous la Myc\xE8le_12"
+  - first:
+      213: -5626787231711145125
+    second: "Logo pixel art Sous la Myc\xE8le_13"
+  - first:
+      213: -5637800882818432260
+    second: "Logo pixel art Sous la Myc\xE8le_14"
+  - first:
+      213: -6463985170225164574
+    second: "Logo pixel art Sous la Myc\xE8le_15"
+  - first:
+      213: -5390960633656733407
+    second: "Logo pixel art Sous la Myc\xE8le_16"
+  - first:
+      213: -1926431132521410941
+    second: "Logo pixel art Sous la Myc\xE8le_17"
+  - first:
+      213: 4500440072253571277
+    second: "Logo pixel art Sous la Myc\xE8le_18"
+  - first:
+      213: -8997414617751699548
+    second: "Logo pixel art Sous la Myc\xE8le_19"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Logo pixel art Sous la Myc\xE8le_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1672
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82dadc01dc942200800000000000000
+      internalID: 154420708915204747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9de900f469cfabc4c987ec92cfa71583
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Logo pixel art Sous la Myc\xE8le_0": 154420708915204747
+      "Logo pixel art Sous la Myc\xE8le_1": 4535724573213318167
+      "Logo pixel art Sous la Myc\xE8le_10": -2950826457391931174
+      "Logo pixel art Sous la Myc\xE8le_11": 6985549974525723133
+      "Logo pixel art Sous la Myc\xE8le_12": 4120174378574236137
+      "Logo pixel art Sous la Myc\xE8le_13": -5626787231711145125
+      "Logo pixel art Sous la Myc\xE8le_14": -5637800882818432260
+      "Logo pixel art Sous la Myc\xE8le_15": -6463985170225164574
+      "Logo pixel art Sous la Myc\xE8le_16": -5390960633656733407
+      "Logo pixel art Sous la Myc\xE8le_17": -1926431132521410941
+      "Logo pixel art Sous la Myc\xE8le_18": 4500440072253571277
+      "Logo pixel art Sous la Myc\xE8le_19": -8997414617751699548
+      "Logo pixel art Sous la Myc\xE8le_2": 1377355159794589898
+      "Logo pixel art Sous la Myc\xE8le_20": -465638593
+      "Logo pixel art Sous la Myc\xE8le_3": -5009816023450660234
+      "Logo pixel art Sous la Myc\xE8le_4": -850027460186014632
+      "Logo pixel art Sous la Myc\xE8le_5": -5652238058015491000
+      "Logo pixel art Sous la Myc\xE8le_6": 3238345742236155988
+      "Logo pixel art Sous la Myc\xE8le_7": 3155962586791300121
+      "Logo pixel art Sous la Myc\xE8le_8": 6940830773542499387
+      "Logo pixel art Sous la Myc\xE8le_9": -4495906640065484374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
