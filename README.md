@@ -129,15 +129,15 @@ https://www.youtube.com/watch?v=ERXFU4JRPNI&t=11s Trail effect and jump
 
 - **Asset :** Arcade Button Press FX
   - **Type :** Effet sonore
-  - **Auteur :** À COMPLÉTER
-  - **Source :** À COMPLÉTER
-  - **Licence :** À COMPLÉTER
+  - **Auteur :** sqkriwvy
+  - **Source :** https://samplefocus.com/samples/arcade-button-press-fx
+  - **Licence :**  Royalty Free
 
 - **Asset :** Arcade Zing FX
   - **Type :** Effet sonore
-  - **Auteur :** À COMPLÉTER
-  - **Source :** À COMPLÉTER
-  - **Licence :** À COMPLÉTER
+  - **Auteur :** 5o95 70
+  - **Source :** https://samplefocus.com/samples/arcade-zing-fx?search_id=226499793
+  - **Licence :** Royalty Free
 
 - **Asset :** Game Dash Whoosh Sound Effect
   - **Type :** Effet sonore
