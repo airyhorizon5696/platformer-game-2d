@@ -1,4 +1,13 @@
-# 2d platformer interactivite ludique
+# Sous la mycèle
+
+- Voici mon jeux réalisé dans le cours d'interactivité ludique
+
+# Touche
+- a-d : déplacements gauche droite
+- J : attaquer
+- w ou ESPACE : saut
+- SHIFT : dash par en avant 
+
 
 ## Crédit
 ### Asset:    Nom de l'asset sur le site qui l'héberge
