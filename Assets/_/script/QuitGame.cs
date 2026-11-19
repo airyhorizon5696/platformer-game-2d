@@ -2,6 +2,12 @@ using UnityEngine;
 
 public class QuitGame : MonoBehaviour
 {
+    void Awake()
+    {
+        if (Application.platform == RuntimePlatform.WebGLPlayer)
+            gameObject.SetActive(false);
+    }
+
     // À brancher sur le OnClick() du bouton "Quitter"
     public void Quit()
     {
