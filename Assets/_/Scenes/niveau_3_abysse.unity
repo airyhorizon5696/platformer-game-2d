@@ -24651,7 +24651,7 @@ MonoBehaviour:
   targetMode: 1
   target: {fileID: 1586593304}
   modifyPosition: 1
-  position: {x: 16.5, y: -12.31, z: 0}
+  position: {x: 14.1, y: -12.31, z: 0}
   modifyRotation: 0
   rotation: {x: 0, y: 0, z: 0}
   modifyScale: 0
@@ -27374,15 +27374,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c83f3dcca4da2a428e85f557d6ed820, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TorchLight
-  rayonSansTorche: 5
-  rayonAvecTorche: 6
-  vitesseTransition: 1.5
+  rayon: 6
   vitesseVacillement: 7.07
   amplitudeRayon: 0.25
   amplitudeIntensite: 0.15
   intensiteDeBase: 1.2
   couleurFeu: {r: 1, g: 0.70782465, b: 0.4481132, a: 1}
-  torcheTrouveeDebug: 0
 --- !u!114 &1486762111
 MonoBehaviour:
   m_ObjectHideFlags: 0

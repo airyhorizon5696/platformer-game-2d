@@ -48,9 +48,8 @@ public class DeathSequence : MonoBehaviour
         Debug.Log("Séquence de mort lancée");
 
         // Baisse les autres sons (musique de fond, etc.)
-        foreach (var a in FindObjectsByType<AudioSource>(FindObjectsSortMode.None))
+        foreach (var a in FindObjectsByType<AudioSource>())
             a.volume *= otherSoundsVolume;
-
         // Son de mort en 2D, volume plein
         if (deathClip)
         {
