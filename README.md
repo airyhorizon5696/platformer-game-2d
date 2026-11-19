@@ -1,4 +1,13 @@
-# 2d platformer interactivite ludique
+# Sous la mycèle
+
+- Voici mon jeux réalisé dans le cours d'interactivité ludique
+
+# Touche
+- a-d : déplacements gauche droite
+- J : attaquer
+- w ou ESPACE : saut
+- SHIFT : dash par en avant 
+
 
 ## Crédit
 ### Asset:    Nom de l'asset sur le site qui l'héberge
@@ -129,15 +138,15 @@ https://www.youtube.com/watch?v=ERXFU4JRPNI&t=11s Trail effect and jump
 
 - **Asset :** Arcade Button Press FX
   - **Type :** Effet sonore
-  - **Auteur :** sqkriwvy
-  - **Source :** https://samplefocus.com/samples/arcade-button-press-fx
-  - **Licence :**  Royalty Free
+  - **Auteur :** À COMPLÉTER
+  - **Source :** À COMPLÉTER
+  - **Licence :** À COMPLÉTER
 
 - **Asset :** Arcade Zing FX
   - **Type :** Effet sonore
-  - **Auteur :** 5o95 70
-  - **Source :** https://samplefocus.com/samples/arcade-zing-fx?search_id=226499793
-  - **Licence :** Royalty Free
+  - **Auteur :** À COMPLÉTER
+  - **Source :** À COMPLÉTER
+  - **Licence :** À COMPLÉTER
 
 - **Asset :** Game Dash Whoosh Sound Effect
   - **Type :** Effet sonore
@@ -152,4 +161,3 @@ Sound Effect by <a href="https://pixabay.com/users/lesiakower-25701529/?utm_sour
 https://admurin.itch.io/parallax-backgrounds-caves
 
 https://pixabay.com/sound-effects/search/game%20over%208bit/
-https://monopixelart.itch.io/forest-monsters-pixel-art
